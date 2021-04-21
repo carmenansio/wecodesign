@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="post-list">
+
+  <article class="warning">
+      <p class="warning-text">¿Quieres proponer algún tema?</p>
+      <a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades" target="_blank">Aquí podéis participar</a>
+  </article>
+
+  <ul class="reset-bullet">
+  {% for post in paginator.posts %}
+    {% unless post.preview %}
+      {% include post-list.html post=post %}
+    {% endunless %}
+  {% endfor %}
+  </ul>
+
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      <li><a class="link" href="{{ paginator.previous_page_path }}">Anterior</a></li>
+    {% endif %}
+    {% if paginator.next_page %}
+      <li><a class="link" href="{{ paginator.next_page_path }}">Siguiente</a></li>
+    {% endif %}
+  </ul>
+
+</div>

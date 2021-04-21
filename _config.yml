@@ -1,0 +1,17 @@
+title: WeCodeSign Podcast
+email: wecodesignpodcast@gmail.com
+description: "El podcast de desarrollo front-end, diseño web y UX semanal."
+baseurl: ""
+url: "http://wecodesignpodcast.com"
+twitter_username: WeCodeSign
+
+# Build settings
+markdown: kramdown
+paginate_path: /blog/page:num
+paginate: 15
+permalink: pretty
+sass:
+  style: :compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
