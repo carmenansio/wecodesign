@@ -10,7 +10,7 @@
 
 <channel>
     <title>WeCodeSign Podcast</title>
-    <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carmenansio.github.io/wecodesign/rss.xml" rel="self" type="application/rss+xml" />
     <link>http://wecodesignpodcast.com</link>
     <description>El podcast de desarrollo front-end, diseño web y UX.
     </description>
@@ -22,7 +22,7 @@
     <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster>
     <category>Web, Design, Development, UX, UI</category>
     <image>
-        <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
+        <url>https://carmenansio.github.io/wecodesign/img/caratula.jpg</url>
         <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
@@ -30,16 +30,16 @@
     <itunes:summary>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:summary>
     <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, Typography, Performance, Accessibility, webdesign, web, development, design</itunes:keywords>
     <itunes:category text="Arts">
-        <itunes:category text="Design"/>
+        <itunes:category text="Design"https://carmenansio.github.io/wecodesign/>
     </itunes:category>
     <itunes:category text="Business">
-        <itunes:category text="Management &amp; Marketing"/>
+        <itunes:category text="Management &amp; Marketing"https://carmenansio.github.io/wecodesign/>
     </itunes:category>
     <itunes:category text="Technology">
-         <itunes:category text="Software How-To"/>
+         <itunes:category text="Software How-To"https://carmenansio.github.io/wecodesign/>
     </itunes:category>
     <itunes:category text="Education">
-      <itunes:category text="Training"/>
+      <itunes:category text="Training"https://carmenansio.github.io/wecodesign/>
     </itunes:category>
     <itunes:author>WeCodeSign Podcast</itunes:author>
     <itunes:owner>
@@ -47,7 +47,7 @@
         <itunes:email>wecodesignpodcast@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
+    <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg" />
 
 
 
@@ -82,7 +82,7 @@
     <h2>Contacta</h2>
 
     <ul>
-        <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+        <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
         <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
         <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
         <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
@@ -90,10 +90,10 @@
 
     ]]>
     </description>
-    <link>http://wecodesignpodcast.com/2019/05/08/mi-opinion-sobre-los-bootcamps/</link>
-    <guid>http://wecodesignpodcast.com/2019/05/08/mi-opinion-sobre-los-bootcamps/</guid>
-    <enclosure url="https://archive.org/download/WCD3x3MiOpinionSobreLosBootcamps/WCD%203x3%20-%20Mi%20opinion%20sobre%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
-    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+    <link>https://carmenansio.github.io/wecodesign/2019/05/08/mi-opinion-sobre-los-bootcamps/</link>
+    <guid>https://carmenansio.github.io/wecodesign/2019/05/08/mi-opinion-sobre-los-bootcamps/</guid>
+    <enclosure url="https://archive.org/download/WCD3x3MiOpinionSobreLosBootcamps/WCD%203x3%20-%20Mi%20opinion%20sobre%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+    <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
     <itunes:duration>00:21:50</itunes:duration>
     <itunes:keywords>Frontend, UX, Web, Accesibilidad, Performance, Tipografía</itunes:keywords>
     <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -119,7 +119,7 @@
     <h2>Contacta</h2>
 
     <ul>
-        <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+        <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
         <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
         <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
         <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
@@ -127,10 +127,10 @@
 
     ]]>
     </description>
-    <link>http://wecodesignpodcast.com/2019/04/04/autoexplotacion/</link>
-    <guid>http://wecodesignpodcast.com/2019/04/04/autoexplotacion/</guid>
-    <enclosure url="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" type="audio/mpeg" length="0"/>
-    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+    <link>https://carmenansio.github.io/wecodesign/2019/04/04/autoexplotacion/</link>
+    <guid>https://carmenansio.github.io/wecodesign/2019/04/04/autoexplotacion/</guid>
+    <enclosure url="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+    <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
     <itunes:duration>00:19:33</itunes:duration>
     <itunes:keywords>Frontend, UX, Web, Accesibilidad, Performance, Tipografía</itunes:keywords>
     <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -156,7 +156,7 @@
         <h2>Contacta</h2>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
@@ -164,10 +164,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2019/03/20/volvemos/</link>
-        <guid>http://wecodesignpodcast.com/2019/03/20/volvemos/</guid>
-        <enclosure url="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2019/03/20/volvemos/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2019/03/20/volvemos/</guid>
+        <enclosure url="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:06:01</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Accesibilidad, Performance, Tipografía</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -258,7 +258,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -267,10 +267,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/12/26/polymer/</link>
-        <guid>http://wecodesignpodcast.com/2017/12/26/polymer/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x14/WeCodeSign%202x14%20-%20Polymer.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/12/26/polymer/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/12/26/polymer/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x14/WeCodeSign%202x14%20-%20Polymer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:05:02</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Diseño, Polymer</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -343,7 +343,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -352,10 +352,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/12/12/proyectos-sostenibles/</link>
-        <guid>http://wecodesignpodcast.com/2017/12/12/proyectos-sostenibles/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x13/WeCodeSign%202x13%20-%20Proyectos%20Sostenibles.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/12/12/proyectos-sostenibles/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/12/12/proyectos-sostenibles/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x13/WeCodeSign%202x13%20-%20Proyectos%20Sostenibles.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:28</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Diseño</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -454,7 +454,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -463,10 +463,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/11/28/la-importancia-del-diseno/</link>
-        <guid>http://wecodesignpodcast.com/2017/11/28/la-importancia-del-diseno/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x12/WeCodeSign%202x12%20-%20El%20Valor%20del%20Disen%CC%83o.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/11/28/la-importancia-del-diseno/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/11/28/la-importancia-del-diseno/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x12/WeCodeSign%202x12%20-%20El%20Valor%20del%20Disen%CC%83o.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:28</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Diseño</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -556,7 +556,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -565,10 +565,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/11/14/el-ecosistema-de-react/</link>
-        <guid>http://wecodesignpodcast.com/2017/11/14/el-ecosistema-de-react/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/11/14/el-ecosistema-de-react/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/11/14/el-ecosistema-de-react/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:00</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -669,7 +669,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -678,10 +678,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/10/31/la-w3c/</link>
-        <guid>http://wecodesignpodcast.com/2017/10/31/la-w3c/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x10/WeCodeSign+2x10+-+La+W3C.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/10/31/la-w3c/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/10/31/la-w3c/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x10/WeCodeSign+2x10+-+La+W3C.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:27</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -773,7 +773,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -782,10 +782,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/10/17/sindrome-del-impostor/</link>
-        <guid>http://wecodesignpodcast.com/2017/10/17/sindrome-del-impostor/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/10/17/sindrome-del-impostor/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/10/17/sindrome-del-impostor/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:25:52</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -883,7 +883,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -892,10 +892,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/10/03/progressive-web-apps/</link>
-        <guid>http://wecodesignpodcast.com/2017/10/03/progressive-web-apps/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/10/03/progressive-web-apps/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/10/03/progressive-web-apps/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:11</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -923,7 +923,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -932,10 +932,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/09/25/mini-11/</link>
-        <guid>http://wecodesignpodcast.com/2017/09/25/mini-11/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-11/WCD-Mini-11-Novedades.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/09/25/mini-11/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/09/25/mini-11/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-11/WCD-Mini-11-Novedades.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:08:48</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1015,7 +1015,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1024,10 +1024,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/09/19/la-web-abierta/</link>
-        <guid>http://wecodesignpodcast.com/2017/09/19/la-web-abierta/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x07/WeCodeSign%202x07%20-%20La%20Web%20Abierta.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/09/19/la-web-abierta/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/09/19/la-web-abierta/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x07/WeCodeSign%202x07%20-%20La%20Web%20Abierta.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:11</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1047,7 +1047,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1056,10 +1056,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/09/12/mini-10/</link>
-        <guid>http://wecodesignpodcast.com/2017/09/12/mini-10/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-10/WeCodeSign%20Mini%2010%20-%20Empresas%20Unicornio.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/09/12/mini-10/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/09/12/mini-10/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-10/WeCodeSign%20Mini%2010%20-%20Empresas%20Unicornio.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:45</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1128,7 +1128,7 @@
         <h3>Contacta con Ignacio</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1137,10 +1137,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/09/05/accesibilidad-practica/</link>
-        <guid>http://wecodesignpodcast.com/2017/09/05/accesibilidad-practica/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x06/WeCodeSign%202x06%20-%20Accesibilidad%20Pra%CC%81ctica.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/09/05/accesibilidad-practica/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/09/05/accesibilidad-practica/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x06/WeCodeSign%202x06%20-%20Accesibilidad%20Pra%CC%81ctica.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:14:04</itunes:duration>
         <itunes:keywords>Web, a11y, accesibilidad</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1160,7 +1160,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1169,10 +1169,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/07/25/mini-9/</link>
-        <guid>http://wecodesignpodcast.com/2017/07/25/mini-9/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-9/WCD%20Mini%209%20-%20Miedo%20al%20fracaso.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/07/25/mini-9/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/07/25/mini-9/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-9/WCD%20Mini%209%20-%20Miedo%20al%20fracaso.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:15:58</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1245,7 +1245,7 @@
         </ul>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1254,10 +1254,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/07/18/camino-a-la-programacion-funcional/</link>
-        <guid>http://wecodesignpodcast.com/2017/07/18/camino-a-la-programacion-funcional/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x05/WeCodeSign%202x05%20-%20Camino%20a%20la%20programacio%CC%81n%20funcional.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/07/18/camino-a-la-programacion-funcional/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/07/18/camino-a-la-programacion-funcional/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x05/WeCodeSign%202x05%20-%20Camino%20a%20la%20programacio%CC%81n%20funcional.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:09:40</itunes:duration>
         <itunes:keywords>Web, Funcional, UX, Diseño</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1277,7 +1277,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1286,10 +1286,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/07/11/mini-8/</link>
-        <guid>http://wecodesignpodcast.com/2017/07/11/mini-8/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-8/WeCodeSign%20Mini%20-%208.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/07/11/mini-8/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/07/11/mini-8/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-8/WeCodeSign%20Mini%20-%208.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:59</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1353,7 +1353,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1362,10 +1362,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/07/04/mobile-first/</link>
-        <guid>http://wecodesignpodcast.com/2017/07/04/mobile-first/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x04/WeCodeSign%202x04%20-%20Mobile%20First.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/07/04/mobile-first/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/07/04/mobile-first/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x04/WeCodeSign%202x04%20-%20Mobile%20First.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:32:00</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1385,7 +1385,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1394,10 +1394,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/06/27/mini-7/</link>
-        <guid>http://wecodesignpodcast.com/2017/06/27/mini-7/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-7/WeCodeSign%20Mini%207%20-%20Salarios.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/06/27/mini-7/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/06/27/mini-7/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-7/WeCodeSign%20Mini%207%20-%20Salarios.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:30</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1454,7 +1454,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1463,10 +1463,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/06/20/trabajando-en-remoto/</link>
-        <guid>http://wecodesignpodcast.com/2017/06/20/trabajando-en-remoto/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x03/WeCodeSign%202x03%20-%20Trabajando%20en%20Remoto.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/06/20/trabajando-en-remoto/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/06/20/trabajando-en-remoto/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x03/WeCodeSign%202x03%20-%20Trabajando%20en%20Remoto.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:15:49</itunes:duration>
         <itunes:keywords>Web, Remoto</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1486,7 +1486,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1495,10 +1495,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/06/13/mini-6/</link>
-        <guid>http://wecodesignpodcast.com/2017/06/13/mini-6/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-6-Juniors/WCD-Mini-6-Que-aportan-los-juniors.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/06/13/mini-6/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/06/13/mini-6/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-6-Juniors/WCD-Mini-6-Que-aportan-los-juniors.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:12:21</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1569,7 +1569,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1578,10 +1578,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/06/06/toma-de-requisitos/</link>
-        <guid>http://wecodesignpodcast.com/2017/06/06/toma-de-requisitos/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x02/WeCodeSign%202x02%20-%20Toma%20de%20Requisitos.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/06/06/toma-de-requisitos/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/06/06/toma-de-requisitos/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x02/WeCodeSign%202x02%20-%20Toma%20de%20Requisitos.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:51</itunes:duration>
         <itunes:keywords>Web, Briefing</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1601,7 +1601,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1610,10 +1610,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/05/30/mini-5/</link>
-        <guid>http://wecodesignpodcast.com/2017/05/30/mini-5/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-5/WeCodeSign-Mini-5.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/05/30/mini-5/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/05/30/mini-5/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-5/WeCodeSign-Mini-5.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:11:53</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1678,7 +1678,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1687,10 +1687,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/05/23/adalab/</link>
-        <guid>http://wecodesignpodcast.com/2017/05/23/adalab/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x01/WeCodeSign%202x01%20-%20Adalab.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/05/23/adalab/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/05/23/adalab/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x01/WeCodeSign%202x01%20-%20Adalab.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:35</itunes:duration>
         <itunes:keywords>Web, Inclusión</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1710,7 +1710,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1719,10 +1719,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/05/16/mini-4/</link>
-        <guid>http://wecodesignpodcast.com/2017/05/16/mini-4/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-4/WeCodeSign%20Mini%204%20-%20Un%20an%CC%83o%20de%20WeCodeSign.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/05/16/mini-4/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/05/16/mini-4/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-4/WeCodeSign%20Mini%204%20-%20Un%20an%CC%83o%20de%20WeCodeSign.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:14:46</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1784,7 +1784,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1793,10 +1793,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/05/09/paradigmas-de-interaccion/</link>
-        <guid>http://wecodesignpodcast.com/2017/05/09/paradigmas-de-interaccion/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/05/09/paradigmas-de-interaccion/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/05/09/paradigmas-de-interaccion/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:17</itunes:duration>
         <itunes:keywords>Web, Interacción, Diseño</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1816,7 +1816,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1825,10 +1825,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/05/02/mini-3/</link>
-        <guid>http://wecodesignpodcast.com/2017/05/02/mini-3/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-3/WeCodeSign%20Mini%20-%203.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/05/02/mini-3/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/05/02/mini-3/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-3/WeCodeSign%20Mini%20-%203.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:25</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1892,7 +1892,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1901,10 +1901,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/04/25/design-systems/</link>
-        <guid>http://wecodesignpodcast.com/2017/04/25/design-systems/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-26/WeCodeSign%201x26%20-%20Design%20Systems.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/04/25/design-systems/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/04/25/design-systems/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-26/WeCodeSign%201x26%20-%20Design%20Systems.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:49</itunes:duration>
         <itunes:keywords>Frontend, DesignSystems</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -1924,7 +1924,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -1933,10 +1933,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/04/17/mini-2/</link>
-        <guid>http://wecodesignpodcast.com/2017/04/17/mini-2/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignMini2/WeCodeSign%20Mini%20-%202.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/04/17/mini-2/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/04/17/mini-2/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignMini2/WeCodeSign%20Mini%20-%202.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:11:32</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2065,7 +2065,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2074,10 +2074,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/04/11/postcss/</link>
-        <guid>http://wecodesignpodcast.com/2017/04/11/postcss/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/04/11/postcss/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/04/11/postcss/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:04</itunes:duration>
         <itunes:keywords>Frontend</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2097,7 +2097,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2106,10 +2106,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/04/03/mini-1/</link>
-        <guid>http://wecodesignpodcast.com/2017/04/03/mini-1/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/04/03/mini-1/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/04/03/mini-1/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:11:01</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2185,7 +2185,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2194,10 +2194,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/03/28/css-grid-layout/</link>
-        <guid>http://wecodesignpodcast.com/2017/03/28/css-grid-layout/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/03/28/css-grid-layout/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/03/28/css-grid-layout/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:17:10</itunes:duration>
         <itunes:keywords>Frontend, Grid, Layout</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2256,7 +2256,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2265,10 +2265,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/03/13/de-educadora-a-frontend/</link>
-        <guid>http://wecodesignpodcast.com/2017/03/13/de-educadora-a-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-23/WeCodeSign%201x23%20-%20De%20educadora%20a%20Front-end.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/03/13/de-educadora-a-frontend/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/03/13/de-educadora-a-frontend/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-23/WeCodeSign%201x23%20-%20De%20educadora%20a%20Front-end.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:59</itunes:duration>
         <itunes:keywords>Frontend</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2350,7 +2350,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2359,10 +2359,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</link>
-        <guid>http://wecodesignpodcast.com/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:21</itunes:duration>
         <itunes:keywords>WebDesign</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2420,7 +2420,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2429,10 +2429,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/02/14/presente-y-futuro-del-ux/</link>
-        <guid>http://wecodesignpodcast.com/2017/02/14/presente-y-futuro-del-ux/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/02/14/presente-y-futuro-del-ux/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/02/14/presente-y-futuro-del-ux/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:58</itunes:duration>
         <itunes:keywords>UX</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2506,7 +2506,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2515,10 +2515,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/01/31/la-importancia-del-open-source/</link>
-        <guid>http://wecodesignpodcast.com/2017/01/31/la-importancia-del-open-source/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-20/WeCodeSign%201x20%20-%20La%20importancia%20del%20Open%20Source.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/01/31/la-importancia-del-open-source/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/01/31/la-importancia-del-open-source/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-20/WeCodeSign%201x20%20-%20La%20importancia%20del%20Open%20Source.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:43</itunes:duration>
         <itunes:keywords>OpenSource, SoftwareLibre</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2587,7 +2587,7 @@
         <h3>Contacta con el programa</h3>
 
         <ul>
-          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2596,10 +2596,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</link>
-        <guid>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/01/17/reclutando-talento/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/01/17/reclutando-talento/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:48:29</itunes:duration>
         <itunes:keywords>Recruiting</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2663,7 +2663,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-              <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+              <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
               <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
               <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
               <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2672,10 +2672,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2017/01/03/metodologias-de-trabajo/</link>
-        <guid>http://wecodesignpodcast.com/2017/01/03/metodologias-de-trabajo/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2017/01/03/metodologias-de-trabajo/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2017/01/03/metodologias-de-trabajo/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:40:44</itunes:duration>
         <itunes:keywords>Metodologías, Trabajo, Methodologies</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2769,7 +2769,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-              <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+              <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
               <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
               <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
               <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2778,10 +2778,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/12/20/SVG/</link>
-        <guid>http://wecodesignpodcast.com/2016/12/20/SVG/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/12/20/SVG/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/12/20/SVG/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:28</itunes:duration>
         <itunes:keywords>SVG, Image</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2872,7 +2872,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-              <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+              <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
               <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
               <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
               <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2881,10 +2881,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/12/06/buenas-practicas-css/</link>
-        <guid>http://wecodesignpodcast.com/2016/12/06/buenas-practicas-css/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/12/06/buenas-practicas-css/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/12/06/buenas-practicas-css/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:37:36</itunes:duration>
         <itunes:keywords>Frontend, CSS</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -2973,7 +2973,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -2982,10 +2982,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/11/22/herramientas-del-frontend/</link>
-        <guid>http://wecodesignpodcast.com/2016/11/22/herramientas-del-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/11/22/herramientas-del-frontend/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/11/22/herramientas-del-frontend/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:56</itunes:duration>
         <itunes:keywords>Tools, Front-end, Frontend, Task Runners, Dependencie Managers, Transpilers</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3053,7 +3053,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3062,10 +3062,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/11/08/accesibilidad-en-la-web/</link>
-        <guid>http://wecodesignpodcast.com/2016/11/08/accesibilidad-en-la-web/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/11/08/accesibilidad-en-la-web/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/11/08/accesibilidad-en-la-web/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:23</itunes:duration>
         <itunes:keywords>Accesibilidad, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3169,7 +3169,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3178,10 +3178,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/10/25/el-ecosistema-frontend/</link>
-        <guid>http://wecodesignpodcast.com/2016/10/25/el-ecosistema-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x13ElEcosistemaFrontend/WeCodeSign%201x13%20-%20El%20ecosistema%20Frontend.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/10/25/el-ecosistema-frontend/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/10/25/el-ecosistema-frontend/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x13ElEcosistemaFrontend/WeCodeSign%201x13%20-%20El%20ecosistema%20Frontend.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:23</itunes:duration>
         <itunes:keywords>Ecosistema, Frontend</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3260,7 +3260,7 @@
             <h3>Contacta con el programa</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3269,10 +3269,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/10/11/tipografia-web/</link>
-        <guid>http://wecodesignpodcast.com/2016/10/11/tipografia-web/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/10/11/tipografia-web/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/10/11/tipografia-web/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:20:22</itunes:duration>
         <itunes:keywords>Tipografía, Frontend</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3360,7 +3360,7 @@
             <h3>Contacta con nosotros</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3369,10 +3369,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/09/24/web-audio/</link>
-        <guid>http://wecodesignpodcast.com/2016/09/24/web-audio/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11WebAudio/WeCodeSign%201x11%20-%20Web%20Audio.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/09/24/web-audio/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/09/24/web-audio/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11WebAudio/WeCodeSign%201x11%20-%20Web%20Audio.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:23:40</itunes:duration>
         <itunes:keywords>Web, Audio, ProgressiveEnhancement, WebAudioAPI</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3445,7 +3445,7 @@
             <h3>Contacta con nosotros</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3454,10 +3454,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/09/13/diseno-de-interaccion/</link>
-        <guid>http://wecodesignpodcast.com/2016/09/13/diseno-de-interaccion/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x10DisenoDeInteraccion/WeCodeSign%201x10%20-%20Disen%CC%83o%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/09/13/diseno-de-interaccion/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/09/13/diseno-de-interaccion/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x10DisenoDeInteraccion/WeCodeSign%201x10%20-%20Disen%CC%83o%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:12</itunes:duration>
         <itunes:keywords>Diseño, Interacción, UX, UI, Accesibilidad</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3533,7 +3533,7 @@
             <h3>Contacta con nosotros</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3542,10 +3542,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/08/30/estado-actual-de-angular-y-polymer/</link>
-        <guid>http://wecodesignpodcast.com/2016/08/30/estado-actual-de-angular-y-polymer/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/08/30/estado-actual-de-angular-y-polymer/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/08/30/estado-actual-de-angular-y-polymer/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:57</itunes:duration>
         <itunes:keywords>Angular, Angular2, Polymer, WebComponents, React</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3616,7 +3616,7 @@
             <h3>Contacta con nosotros</h3>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
@@ -3625,10 +3625,10 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</link>
-        <guid>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"/>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <link>https://carmenansio.github.io/wecodesign/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:59</itunes:duration>
         <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
@@ -3695,12 +3695,12 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/08/02/episodio-7/</link>
-        <guid>http://wecodesignpodcast.com/2016/08/02/episodio-7/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/08/02/episodio-7/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/08/02/episodio-7/</guid>
         <pubDate>Tue, 02 Aug 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:12:39</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -3757,12 +3757,12 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/07/19/episodio-6/</link>
-        <guid>http://wecodesignpodcast.com/2016/07/19/episodio-6/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/07/19/episodio-6/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/07/19/episodio-6/</guid>
         <pubDate>Tue, 19 Jul 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Front-end, Design</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:04:51</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -3816,12 +3816,12 @@
         </ul>
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/07/05/episodio-5/</link>
-        <guid>http://wecodesignpodcast.com/2016/07/05/episodio-5/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/07/05/episodio-5/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/07/05/episodio-5/</guid>
         <pubDate>Tue, 05 Jul 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x05UXYUI/WeCodeSign%20Podcast.%20Episodio%201x05%20-%20UX%20y%20UI.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x05UXYUI/WeCodeSign%20Podcast.%20Episodio%201x05%20-%20UX%20y%20UI.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>UX, UI</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:01:23</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -3875,12 +3875,12 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/06/21/episodio-4/</link>
-        <guid>http://wecodesignpodcast.com/2016/06/21/episodio-4/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/06/21/episodio-4/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/06/21/episodio-4/</guid>
         <pubDate>Tue, 21 Jun 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>SEO, SEM</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:22:29</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -3938,12 +3938,12 @@
 
             ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/06/07/episodio-3/</link>
-        <guid>http://wecodesignpodcast.com/2016/06/07/episodio-3/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/06/07/episodio-3/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/06/07/episodio-3/</guid>
         <pubDate>Tue, 07 Jun 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Educación, Online</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:54:26</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -3998,12 +3998,12 @@
 
             ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/05/24/episodio-2/</link>
-        <guid>http://wecodesignpodcast.com/2016/05/24/episodio-2/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/05/24/episodio-2/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/05/24/episodio-2/</guid>
         <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:12:51</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -4058,12 +4058,12 @@
             ]]>
 
         </description>
-        <link>http://wecodesignpodcast.com/2016/05/10/episodio-1/</link>
-        <guid>http://wecodesignpodcast.com/2016/05/10/episodio-1/</guid>
+        <link>https://carmenansio.github.io/wecodesign/2016/05/10/episodio-1/</link>
+        <guid>https://carmenansio.github.io/wecodesign/2016/05/10/episodio-1/</guid>
         <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:24</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
