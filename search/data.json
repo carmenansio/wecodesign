@@ -1,15 +1,423 @@
----
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date|date: '%B %d, %Y' }}",
-      "excerpt"  : "{{ post.excerpt }}",
-      "number"   : "{{ post.podcast_number }}",
-      "duration" : "{{ post.podcast_duration }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "Polymer",
+      "tags"     : "Polymer",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/12/26/polymer/",
+      "date"     : "December 26, 2017",
+      "excerpt"  : "Borja Godoy nos habla sobre Polymer. ¿Para qué se pensó?",
+      "number"   : "WCD 2x14",
+      "duration" : "01:05:02"
+    } ,
+  
+    {
+      "title"    : "Proyectos Sostenibles",
+      "tags"     : "Diseño",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/12/12/proyectos-sostenibles/",
+      "date"     : "December 12, 2017",
+      "excerpt"  : "Mari Carmen vienen a debatir sobre la importancia del diseño sostenible.",
+      "number"   : "WCD 2x13",
+      "duration" : "00:59:20"
+    } ,
+  
+    {
+      "title"    : "La Importancia del Diseño",
+      "tags"     : "Diseño",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/11/28/la-importancia-del-diseno/",
+      "date"     : "November 28, 2017",
+      "excerpt"  : "Diego Rodríguez, Jorge Aznar y Jorge Barrachina vienen a debatir sobre la importancia del diseño.",
+      "number"   : "WCD 2x12",
+      "duration" : "01:02:28"
+    } ,
+  
+    {
+      "title"    : "El ecositema de React",
+      "tags"     : "React",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/11/14/el-ecosistema-de-react/",
+      "date"     : "November 14, 2017",
+      "excerpt"  : "José Miguel, nos cuenta desde Helsinki como trabaja con React y habla sobre su ecosistema.",
+      "number"   : "WCD 2x11",
+      "duration" : "01:00:00"
+    } ,
+  
+    {
+      "title"    : "La W3C",
+      "tags"     : "W3C",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/10/31/la-w3c/",
+      "date"     : "October 31, 2017",
+      "excerpt"  : "Hablamos con Antonio la labor de la W3C.",
+      "number"   : "WCD 2x10",
+      "duration" : "01:02:27"
+    } ,
+  
+    {
+      "title"    : "Síndrome del Impostor",
+      "tags"     : "Web, SindromeDelImpostor",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/10/17/sindrome-del-impostor/",
+      "date"     : "October 17, 2017",
+      "excerpt"  : "Hablamos con Cristina Fernández y Elena Torró sobre el Síndrome del Impostor.",
+      "number"   : "WCD 2x09",
+      "duration" : "01:25:52"
+    } ,
+  
+    {
+      "title"    : "Progressive Web Apps",
+      "tags"     : "web, PWA",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/10/03/progressive-web-apps/",
+      "date"     : "October 03, 2017",
+      "excerpt"  : "José Manuel es ingeniero de software, trabaja como desarrollador web en Estocolmo para Spotify nos hablará sobre las Progressive Web Apps.",
+      "number"   : "WCD 2x08",
+      "duration" : "01:12:13"
+    } ,
+  
+    {
+      "title"    : "La Web Abierta",
+      "tags"     : "web",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/09/18/la-web-abierta/",
+      "date"     : "September 18, 2017",
+      "excerpt"  : "Juan Hernando es diseñador y desarrollador frontend. Está especializado en WordPress y en comercio electrónico con WooCommerce.",
+      "number"   : "WCD 2x07",
+      "duration" : "01:02:11"
+    } ,
+  
+    {
+      "title"    : "Accesibilidad Práctica",
+      "tags"     : "a11y, Accesibilidad",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/09/05/accesibilidad-practica/",
+      "date"     : "September 05, 2017",
+      "excerpt"  : "Juanjo, desarrollador .NET y experto en accesibilidad nos cuenta de manera práctica mejoras que podemos usar en nuestros proyectos.",
+      "number"   : "WCD 2x06",
+      "duration" : "01:14:04"
+    } ,
+  
+    {
+      "title"    : "Camino a la programación funcional",
+      "tags"     : "Web, ProgramaciónFuncional",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/07/18/camino-a-la-programacion-funcional/",
+      "date"     : "July 18, 2017",
+      "excerpt"  : "Anler, desarrollador de Scala y Akka organizador de Haskell Madrid nos cuenta su paso en la programación funcional.",
+      "number"   : "WCD 2x05",
+      "duration" : "01:09:40"
+    } ,
+  
+    {
+      "title"    : "Mobile First",
+      "tags"     : "Web",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/07/04/mobile-first/",
+      "date"     : "July 04, 2017",
+      "excerpt"  : "Diana Aceves, trabaja como front-end, su especialidad es el desarrollo responsive y con ella hablaremos de MobileFirst.",
+      "number"   : "WCD 2x04",
+      "duration" : "01:32:00"
+    } ,
+  
+    {
+      "title"    : "Trabajando en Remoto",
+      "tags"     : "Web, Remoto",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/06/20/trabajando-en-remoto/",
+      "date"     : "June 20, 2017",
+      "excerpt"  : "Luis Herrero Jimenez, diseñador visual, profesor y que trabaja en Plex nos hablará de su forma de trabajar en remoto.",
+      "number"   : "WCD 2x03",
+      "duration" : "01:15:49"
+    } ,
+  
+    {
+      "title"    : "Toma de Requisitos",
+      "tags"     : "Web, Briefing",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/06/06/toma-de-requisitos/",
+      "date"     : "June 06, 2017",
+      "excerpt"  : "Carlos Blé, desarrollador Agile, mentor y speaker nos contará su experiencia sobre la importancia de la toma de requisitos.",
+      "number"   : "WCD 2x02",
+      "duration" : "01:00:35"
+    } ,
+  
+    {
+      "title"    : "Adalab",
+      "tags"     : "Web, Inclusión",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/05/23/adalab/",
+      "date"     : "May 23, 2017",
+      "excerpt"  : "Inés y Rosario se unieron para formar Adalab, con el objetivo de ayudar a mujeres con dificultades a introducirse en el desarrollo.",
+      "number"   : "WCD 2x01",
+      "duration" : "01:00:35"
+    } ,
+  
+    {
+      "title"    : "Paradigmas de Interacción",
+      "tags"     : "Web, Interacción, Diseño",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/05/09/paradigmas-de-interaccion/",
+      "date"     : "May 09, 2017",
+      "excerpt"  : "Carmel Hassan, UX Designer nos hablará de los diferentes modelos de interfaz existentes como interactuar con ellos.",
+      "number"   : "WCD 1x27",
+      "duration" : "01:02:17"
+    } ,
+  
+    {
+      "title"    : "Design Systems",
+      "tags"     : "Frontend, DesignSystems",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/04/25/design-systems/",
+      "date"     : "April 25, 2017",
+      "excerpt"  : "Naiara Abaroa, Front-end Designer y apasionada por el CSS, nos ayudará a entender los Design Systems.",
+      "number"   : "WCD 1x26",
+      "duration" : "00:58:49"
+    } ,
+  
+    {
+      "title"    : "¿Podemos usar tecnologías modernas?",
+      "tags"     : "",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/04/18/mini-2/",
+      "date"     : "April 18, 2017",
+      "excerpt"  : "¿Queréis saber de que hablamos en este episodio? Dadle al play ;)",
+      "number"   : "Mini 2",
+      "duration" : "00:11:31"
+    } ,
+  
+    {
+      "title"    : "PostCSS",
+      "tags"     : "Frontend, PostCSS",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/04/11/postcss/",
+      "date"     : "April 11, 2017",
+      "excerpt"  : "Joan León Front-end y UI Developer y responsable de formación en su empresa nos hablará sobre PostCSS.",
+      "number"   : "WCD 1x25",
+      "duration" : "00:53:04"
+    } ,
+  
+    {
+      "title"    : "CSS Grid Layout",
+      "tags"     : "Frontend, Grid, Layout",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/03/28/css-grid-layout/",
+      "date"     : "March 28, 2017",
+      "excerpt"  : "Manuel Rego, Chromium/Blink owner & WebKit reviewer nos habla sobre la implementación y funcionamiento de CSS Grid Layout",
+      "number"   : "WCD 1x24",
+      "duration" : "01:17:10"
+    } ,
+  
+    {
+      "title"    : "De educadora a Front-end",
+      "tags"     : "Frontend, Junior",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/03/14/de-educadora-a-frontend/",
+      "date"     : "March 14, 2017",
+      "excerpt"  : "Laetitia Carquet, aprendiz insaciable y colaboradora de proyectos como Semillasocial nos contará su experiencia.",
+      "number"   : "WCD 1x23",
+      "duration" : "00:59:58"
+    } ,
+  
+    {
+      "title"    : "La importancia del diseño en la web",
+      "tags"     : "WebDesign",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/",
+      "date"     : "February 28, 2017",
+      "excerpt"  : "Wences Sanz, Senior Designer en Everis nos cuenta su visión por el diseño y las tendencias web que podremos ver este 2017.",
+      "number"   : "WCD 1x22",
+      "duration" : "01:00:21"
+    } ,
+  
+    {
+      "title"    : "Presente y futuro del UX",
+      "tags"     : "UX",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/02/14/presente-y-futuro-del-ux/",
+      "date"     : "February 14, 2017",
+      "excerpt"  : "Mauricio Angulo, consultor de User Experience, Google Developer Expert nos cuenta sus pensamientos sobre la experiencia de usuario.",
+      "number"   : "WCD 1x21",
+      "duration" : "58:59"
+    } ,
+  
+    {
+      "title"    : "La importancia del OpenSource",
+      "tags"     : "Recruiting",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/01/31/la-importancia-del-open-source/",
+      "date"     : "January 31, 2017",
+      "excerpt"  : "Ulises Gascón, desarrollador OpenSource y especializado en JavaScript y Node nos cuenta su opinión el importancia del software libre.",
+      "number"   : "WCD 1x20",
+      "duration" : "58:43"
+    } ,
+  
+    {
+      "title"    : "Reclutando Talento",
+      "tags"     : "Recruiting",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/01/17/reclutando-talento/",
+      "date"     : "January 17, 2017",
+      "excerpt"  : "Jose Martín-Corral, recruiter de Aurigae una consultora española del sector IT nos contará trucos para saber afrontar una entrevista.",
+      "number"   : "WCD 1x19",
+      "duration" : "49:22"
+    } ,
+  
+    {
+      "title"    : "Metodologías de Trabajo",
+      "tags"     : "Metodologías",
+      "url"      : "https://carmenansio.github.io/wecodesign/2017/01/03/metodologias-de-trabajo/",
+      "date"     : "January 03, 2017",
+      "excerpt"  : "Mario Sánchez, Director Creativo & UX en Redbility nos cuenta sus experiencias organizando proyectos y gestionando equipos.",
+      "number"   : "WCD 1x18",
+      "duration" : "40:44"
+    } ,
+  
+    {
+      "title"    : "SVG",
+      "tags"     : "SVG, Imagen",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/12/20/SVG/",
+      "date"     : "December 20, 2016",
+      "excerpt"  : "Hoy hablamos con Jorge Aznar, front-end designer y autor de Scalable un libro sobre SVG y nos contará trucos y consejos para usar SVG.",
+      "number"   : "WCD 1x17",
+      "duration" : "57:27"
+    } ,
+  
+    {
+      "title"    : "Buenas prácticas en el CSS",
+      "tags"     : "CSS, Frontend",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/12/06/buenas-practicas-css/",
+      "date"     : "December 06, 2016",
+      "excerpt"  : "Hoy hablamos con Belén Albeza, devrel de Mozilla sobre la importancia del buen código CSS y buenas prácticas a tener en cuenta.",
+      "number"   : "WCD 1x16",
+      "duration" : "1:00:55"
+    } ,
+  
+    {
+      "title"    : "Herramientas del frontend",
+      "tags"     : "Tools, Frontend",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/11/22/herramientas-del-frontend/",
+      "date"     : "November 22, 2016",
+      "excerpt"  : "Hoy como invitado está con nosotros Luis de Dios, frontend que nos ayudará a entender las herramientas que usamos día a día.",
+      "number"   : "WCD 1x15",
+      "duration" : "1:00:55"
+    } ,
+  
+    {
+      "title"    : "Accesibilidad en la Web",
+      "tags"     : "Accesibilidad",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/11/08/accesibilidad-en-la-web/",
+      "date"     : "November 08, 2016",
+      "excerpt"  : "Jonathan Chacón, desarrollador y consultor web nos explica las recomendaciones para hacer la web más accesible.",
+      "number"   : "WCD 1x14",
+      "duration" : "1:28:24"
+    } ,
+  
+    {
+      "title"    : "El ecosistema frontend",
+      "tags"     : "Frontend",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/10/25/el-ecosistema-frontend/",
+      "date"     : "October 25, 2016",
+      "excerpt"  : "Miguel Martín, CTO de Redradix nos cuenta como ve la situación actual del front-end, que herramientas utiliza y cuales no.",
+      "number"   : "WCD 1x13",
+      "duration" : "0:57:23"
+    } ,
+  
+    {
+      "title"    : "Tipografía Web",
+      "tags"     : "Tipografía",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/10/11/tipografia-web/",
+      "date"     : "October 11, 2016",
+      "excerpt"  : "El Diseñador UI y tipógrafo Lole Román nos cuenta como debemos usar la tipografía en la web y trucos para usarla correctamente.",
+      "number"   : "WCD 1x12",
+      "duration" : "1:20:42"
+    } ,
+  
+    {
+      "title"    : "Web Audio",
+      "tags"     : "Web, Audio, ProgressiveEnhancement, AudioAPI",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/09/27/web-audio/",
+      "date"     : "September 27, 2016",
+      "excerpt"  : "La desarrolladora y devrel de Mozilla Soledad Penadés, visita el podcast para contarnos el Web Audio y su influencia en la Web.",
+      "number"   : "WCD 1x11",
+      "duration" : "1:23:40"
+    } ,
+  
+    {
+      "title"    : "Diseño de Interacción",
+      "tags"     : "Diseño, Interacción, UX, UI, Accesibilidad",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/09/13/diseno-de-interaccion/",
+      "date"     : "September 13, 2016",
+      "excerpt"  : "Izaskun Saez, UX/UI Senior Designer nos comenta cual es la situación de un sector que vive un aparente boom: El Diseño de Interacción.",
+      "number"   : "WCD 1x10",
+      "duration" : "53:12"
+    } ,
+  
+    {
+      "title"    : "Angular y Polymer",
+      "tags"     : "Angular, Angular2, Polymer, WebComponents, React",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/08/30/estado-actual-de-angular-y-polymer/",
+      "date"     : "August 30, 2016",
+      "excerpt"  : "Alejandro Arroyo Duque nos cuenta su experiencia con Angular y Polymer y su visión sobre el futuro de dichas tecnologías.",
+      "number"   : "WCD 1x09",
+      "duration" : "53:57"
+    } ,
+  
+    {
+      "title"    : "Trabajando con diferentes CMS",
+      "tags"     : "CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/",
+      "date"     : "August 16, 2016",
+      "excerpt"  : "Luis Martín de Martin & Young, una agencia de desarrollo y posicionamiento web nos cuenta su experiencia trabajando con diferentes CMS.",
+      "number"   : "WCD 1x08",
+      "duration" : "58:39"
+    } ,
+  
+    {
+      "title"    : "Exportando talento",
+      "tags"     : "Desarrollo, Video, Emprendimiento",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/08/02/episodio-7/",
+      "date"     : "August 02, 2016",
+      "excerpt"  : "Miguel es un desarrollador bilbaíno asentado en Vancouver y nos cuenta su paso de creador de Apps a exitoso editor de vídeo.",
+      "number"   : "WCD 1x07",
+      "duration" : "1:12:39"
+    } ,
+  
+    {
+      "title"    : "Primeros pasos como Front-end Designer",
+      "tags"     : "Front-end, Diseño",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/07/19/episodio-6/",
+      "date"     : "July 19, 2016",
+      "excerpt"  : "La diseñadora y desarrolladora Front-end Lidia Pescuezo nos explica cómo fue su paso desde Bellas Artes a una Agencia Digital.",
+      "number"   : "WCD 1x06",
+      "duration" : "1:04:23"
+    } ,
+  
+    {
+      "title"    : "UX y UI",
+      "tags"     : "UX, UI",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/07/05/episodio-5/",
+      "date"     : "July 05, 2016",
+      "excerpt"  : "El UX / UI Designer & FrontEnd Developer Javier Larrea García comenta sobre la situación del UX y el UI y el estado actual de dicho perfil.",
+      "number"   : "WCD 1x05",
+      "duration" : "1:01:23"
+    } ,
+  
+    {
+      "title"    : "SEO y SEM",
+      "tags"     : "SEO, SEM",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/06/21/episodio-4/",
+      "date"     : "June 21, 2016",
+      "excerpt"  : "El consultor y analista SEO Jose Ramón Saura nos desvela algunos de los secretos detrás de esta profesión tan importante como desconocida.",
+      "number"   : "WCD 1x04",
+      "duration" : "0:54:28"
+    } ,
+  
+    {
+      "title"    : "Formación online",
+      "tags"     : "Educación, Online",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/06/07/episodio-3/",
+      "date"     : "June 07, 2016",
+      "excerpt"  : "En WCD hablamos de las plataformas online como Udacity y entrevistamos a Álvaro Sanmartín, su responsable de desarrollo europeo.",
+      "number"   : "WCD 1x03",
+      "duration" : "0:54:28"
+    } ,
+  
+    {
+      "title"    : "Los Bootcamps",
+      "tags"     : "Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/05/24/episodio-2/",
+      "date"     : "May 24, 2016",
+      "excerpt"  : "Analizamos las características de los Bootcamps como alternativa formativa y entrevistamos a Gonzalo Manrique, co-fundador de Ironhack.",
+      "number"   : "WCD 1x02",
+      "duration" : "1:12:51"
+    } ,
+  
+    {
+      "title"    : "Formación clásica",
+      "tags"     : "Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid",
+      "url"      : "https://carmenansio.github.io/wecodesign/2016/05/10/episodio-1/",
+      "date"     : "May 10, 2016",
+      "excerpt"  : "Analizamos el rol de la universidad y entrevistamos a Edu Fierro, Digital Sr en Yslandia y docente en Lightbox.",
+      "number"   : "WCD 1x01",
+      "duration" : "0:53:26"
+    } 
+  
 ]
