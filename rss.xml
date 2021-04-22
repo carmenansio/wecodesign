@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-      xmlns:content="http://purl.org/rss/1.0/modules/content/"
-      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-      xmlns:dc="http://purl.org/dc/elements/1.1/"
-      xmlns:atom="http://www.w3.org/2005/Atom"
-      xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-      xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-      xmlns:media="http://search.yahoo.com/mrss/">
+      xmlns:content="https://purl.org/rss/1.0/modules/content/"
+      xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+      xmlns:dc="https://purl.org/dc/elements/1.1/"
+      xmlns:atom="https://www.w3.org/2005/Atom"
+      xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+      xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+      xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+      xmlns:media="https://search.yahoo.com/mrss/">
 
 <channel>
     <title>WeCodeSign Podcast</title>
     <atom:link href="https://carmenansio.github.io/wecodesign/rss.xml" rel="self" type="application/rss+xml" />
-    <link>http://wecodesignpodcast.com</link>
+    <link>https://wecodesignpodcast.com</link>
     <description>El podcast de desarrollo front-end, diseño web y UX.
     </description>
     <language>es-ES</language>
@@ -24,7 +24,7 @@
     <image>
         <url>https://carmenansio.github.io/wecodesign/img/caratula.jpg</url>
         <title>WeCodeSign Podcast</title>
-        <link>http://wecodesignpodcast.com</link>
+        <link>https://wecodesignpodcast.com</link>
     </image>
     <itunes:subtitle>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:subtitle>
     <itunes:summary>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:summary>
@@ -84,7 +84,7 @@
     <ul>
         <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
         <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-        <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
+        <li><a href="https://ignaciodenuevo.com/">Web de Ignacio</a></li>
         <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
     </ul>
 
@@ -121,7 +121,7 @@
     <ul>
         <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
         <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-        <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
+        <li><a href="https://ignaciodenuevo.com/">Web de Ignacio</a></li>
         <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
     </ul>
 
@@ -158,7 +158,7 @@
         <ul>
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
         </ul>
 
@@ -203,7 +203,7 @@
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/Jnroji">Jon Rojí</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/flipper83">Jorge Barroso</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://medium.com/">Medium</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://wmedia.es/">Juan W Media</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://wmedia.es/">Juan W Media</a></li>
           <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/Jnroji">Jon Rojí</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: Agentes Inteligentes ((Siri, Alexa, Google Assistant))</span></li>
         </ul>
@@ -252,7 +252,7 @@
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -261,7 +261,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -269,7 +269,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/12/26/polymer/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/12/26/polymer/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x14/WeCodeSign%202x14%20-%20Polymer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x14/WeCodeSign%202x14%20-%20Polymer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:05:02</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Diseño, Polymer</itunes:keywords>
@@ -301,7 +301,7 @@
         <h3>Preguntas rápidas: Mari Carmen</h3>
 
         <ul>
-          <li><span>Quién me ha inspirado: </span><a href="http://www.raquelpelta.com/">Raquel Pelta</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://www.raquelpelta.com/">Raquel Pelta</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://www.change.org/">Change.org</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.theguardian.com/uk/sustainable-business">Blog en The Guardian</a></li>
           <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://comunicacionsinmachismo.wordpress.com/">Comunicación sin machismo</a></li>
@@ -313,31 +313,31 @@
         <ul>
           <li><a href="https://twitter.com/mcestevan">Twitter de Mari Carmen</a></li>
           <li><a href="https://twitter.com/HoyDesign">Twitter de Hoy es el Día</a></li>
-          <li><a href="http://www.hoyeseldia.es/">Web de Hoy es el Día</a></li>
+          <li><a href="https://www.hoyeseldia.es/">Web de Hoy es el Día</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
-          <li><a href="http://www.hoyeseldia.es/diseno-ecologico-vs-diseno-sostenible/">Diseño ecológico vs Diseño sostenible</a></li>
-          <li><a href="http://www.designread.es/decalogo-etico-para-la-practica-del-diseno/">Decálogo Ético para la Práctica del Diseño</a></li>
+          <li><a href="https://www.hoyeseldia.es/diseno-ecologico-vs-diseno-sostenible/">Diseño ecológico vs Diseño sostenible</a></li>
+          <li><a href="https://www.designread.es/decalogo-etico-para-la-practica-del-diseno/">Decálogo Ético para la Práctica del Diseño</a></li>
           <li><a href="https://faircompanies.com/articles/5-tipologias-de-diseno-sostenible-c2c-biomimetismo-y-mas/">5 tipologías de diseño sostenible: C2C, biomimetismo y más</a></li>
           <li><a href="https://laprestampa.wordpress.com/2014/09/23/la-importancia-del-ecodiseno/">La importancia del ecodiseño y el diseño sostenible</a></li>
-          <li><a href="http://www.llotja.cat/admin/pages/files/userfiles/files/Llotja/Premis%20alumnat/tipo_mad_lineas%20de%20corte.pdf">Hacia un diseño gráfico inclusivo</a></li>
-          <li><a href="http://www.designread.es/wp-content/uploads/2017/04/GCD_READ.pdf">Guía para convocatorias de diseño</a></li>
+          <li><a href="https://www.llotja.cat/admin/pages/files/userfiles/files/Llotja/Premis%20alumnat/tipo_mad_lineas%20de%20corte.pdf">Hacia un diseño gráfico inclusivo</a></li>
+          <li><a href="https://www.designread.es/wp-content/uploads/2017/04/GCD_READ.pdf">Guía para convocatorias de diseño</a></li>
         </ul>
 
         <h3>Recomendaciones de Nacho</h3>
 
         <ul>
-          <li><a href="http://fci.uib.es/Servicios/libros/veracruz/giorgio/Surgimiento-y-evolucion-del-diseno-sustentable.cid226101">Surgimiento y evolución del diseño sustentable</a></li>
-          <li><a href="http://www.tysmagazine.com/disenar-un-producto-sostenible-que-caracteristicas-debe-presentar/">Diseñar un producto sostenible ¿qué características debe presentar?</a></li>
+          <li><a href="https://fci.uib.es/Servicios/libros/veracruz/giorgio/Surgimiento-y-evolucion-del-diseno-sustentable.cid226101">Surgimiento y evolución del diseño sustentable</a></li>
+          <li><a href="https://www.tysmagazine.com/disenar-un-producto-sostenible-que-caracteristicas-debe-presentar/">Diseñar un producto sostenible ¿qué características debe presentar?</a></li>
         </ul>
 
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -346,7 +346,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -354,7 +354,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/12/12/proyectos-sostenibles/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/12/12/proyectos-sostenibles/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x13/WeCodeSign%202x13%20-%20Proyectos%20Sostenibles.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x13/WeCodeSign%202x13%20-%20Proyectos%20Sostenibles.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:28</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Diseño</itunes:keywords>
@@ -395,8 +395,8 @@
 
         <ul>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/txipi">Pablo Garaizar (Txipi)</a></li>
-          <li><span>Quién me ha inspirado: </span><a href="http://jxnblk.com/">Brent Jackson</a></li>
-          <li><span>Quién me ha inspirado: </span><a href="http://mrmrs.cc/">Adam Morse</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://jxnblk.com/">Brent Jackson</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://mrmrs.cc/">Adam Morse</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://www.youtube.com/watch?v=8pTEmbeENF4">Bret Victor</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/tinitun">Ramón Corominas</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://alistapart.com/">Alist Apart</a></li>
@@ -416,9 +416,9 @@
 
         <ul>
           <li><a href="https://twitter.com/arketipo">Twitter de Diego</a></li>
-          <li><a href="http://arketipo.net/">Web de Diego</a></li>
+          <li><a href="https://arketipo.net/">Web de Diego</a></li>
           <li><a href="https://twitter.com/jorgeATGU">Twitter de Jorge Aznar</a></li>
-          <li><a href="http://jorgeatgu.com/">Web de Jorge Aznar</a></li>
+          <li><a href="https://jorgeatgu.com/">Web de Jorge Aznar</a></li>
           <li><a href="https://twitter.com/NTKOG">Twitter de Jorge Barrachina</a></li>
         </ul>
 
@@ -430,8 +430,8 @@
           <li><a href="https://www.youtube.com/watch?list=PL2yjEVbRSX7WZbIwLZyOC-6j2KtfSkKPn&v=zk2397IMPZU">Workflows sanos y funcionales entre equipos (UX, UI, Front) - Juan de la Cruz. ForntFest 2.017</a></li>
           <li><a href="https://twitter.com/omixam">Máximo Gavete</a></li>
           <li><a href="https://openideo.com/">Open Ideo</a></li>
-          <li><a href="http://disenosocial.org/enpositivo/">Diseño Social</a></li>
-          <li><a href="http://opensourcedesign.net/">Open Source Design</a></li>
+          <li><a href="https://disenosocial.org/enpositivo/">Diseño Social</a></li>
+          <li><a href="https://opensourcedesign.net/">Open Source Design</a></li>
           <li><a href="https://twitter.com/Xaviju">Xaviju</a></li>
           <li><a href="https://www.fastcodesign.com/90143222/logitech-quadrupled-its-profits-with-one-big-design-idea">Logitech Quadrupled Its Profits–With One Big Design Idea</a></li>
         </ul>
@@ -440,15 +440,15 @@
 
         <ul>
           <li><a href="https://yeun.github.io/open-color/">Open Color</a></li>
-          <li><a href="http://learndesignprinciples.com/">Design Principles</a></li>
+          <li><a href="https://learndesignprinciples.com/">Design Principles</a></li>
           <li><a href="https://www.amazon.es/Bauhaus-Taschen-25-Magdalena-Droste/dp/3822850020/ref=pd_sbs_14_2?_encoding=UTF8&psc=1&refRID=5R7WVXEWSQAXCHY804R3">Bauhaus (Taschen 25)</a></li>
-          <li><a href="http://opensourcedesign.net/">Open Source Design</a></li>
+          <li><a href="https://opensourcedesign.net/">Open Source Design</a></li>
         </ul>
 
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -457,7 +457,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -465,7 +465,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/11/28/la-importancia-del-diseno/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/11/28/la-importancia-del-diseno/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x12/WeCodeSign%202x12%20-%20El%20Valor%20del%20Disen%CC%83o.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x12/WeCodeSign%202x12%20-%20El%20Valor%20del%20Disen%CC%83o.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:28</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Diseño</itunes:keywords>
@@ -514,14 +514,14 @@
         <ul>
           <li><a href="https://twitter.com/xDae">Twitter de José Miguel</a></li>
           <li><a href="https://github.com/xdae">Github de José Miguel</a></li>
-          <li><a href="http://cursoreact.com/">Curso de React de José Miguel</a></li>
+          <li><a href="https://cursoreact.com/">Curso de React de José Miguel</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
           <li><a href="https://frontendlabs.io/3158--react-js-espanol-tutorial-basico-primeros-pasos-ejemplos">Primeros pasos con React</a></li>
-          <li><a href="http://www.discoversdk.com/compare/react-vs-angularjs#/product-comparisons">React vs AngularJS</a></li>
+          <li><a href="https://www.discoversdk.com/compare/react-vs-angularjs#/product-comparisons">React vs AngularJS</a></li>
           <li><a href="https://edgecoders.com/react-16-features-and-fiber-explanation-e779544bb1b7">What’s New in React 16 and Fiber Explanation</a></li>
           <li><a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/">React 16: A look inside an API-compatible rewrite of our frontend UI library</a></li>
           <li><a href="https://reactjs.org/blog/2017/09/26/react-v16.0.html">React v16.0</a></li>
@@ -550,7 +550,7 @@
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -559,7 +559,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -567,7 +567,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/11/14/el-ecosistema-de-react/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/11/14/el-ecosistema-de-react/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:00</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -609,7 +609,7 @@
 
         <ul>
           <li><span>Quién me ha inspirado: </span><a href="https://www.stallman.org/">Richard Stallman</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://shop.oreilly.com/product/9780596805531.do">JavaScript: The Definitive Guide</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://shop.oreilly.com/product/9780596805531.do">JavaScript: The Definitive Guide</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://caniuse.com/">Can I Use</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.w3.org/TR/">All W3C Standards and Drafts</a></li>
           <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/pixelinmind">Alberto García</a></li>
@@ -663,7 +663,7 @@
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -672,7 +672,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -680,7 +680,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/10/31/la-w3c/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/10/31/la-w3c/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x10/WeCodeSign+2x10+-+La+W3C.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x10/WeCodeSign+2x10+-+La+W3C.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:27</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -732,7 +732,7 @@
 
         <ul>
           <li><a href="https://twitter.com/cristinafsanz">Twitter de Cristina</a></li>
-          <li><a href="http://cristinafsanz.github.io/projects/">Blog de Cristina</a></li>
+          <li><a href="https://cristinafsanz.github.io/projects/">Blog de Cristina</a></li>
           <li><a href="https://twitter.com/eletorro">Twitter de Elena</a></li>
           <li><a href="https://elenatorro.github.io/">Blog de Elena</a></li>
         </ul>
@@ -742,7 +742,7 @@
         <ul>
           <li><a href="https://twitter.com/codeontherocks">Code on The Rocks</a></li>
           <li><a href="https://www.codesai.com">Codesai</a></li>
-          <li><a href="http://2017.jsday.es/">JSDay</a></li>
+          <li><a href="https://2017.jsday.es/">JSDay</a></li>
           <li><a href="https://www.meetup.com/es-ES/Murcia-Frontend/">Murcia Front-end</a></li>
           <li><a href="https://www.todojs.com/redux-traves-la-musica-elena-torro/">Redux a través de la música</a></li>
           <li><a href="https://twitter.com/SaraSoueidan">Sara Soueidan</a></li>
@@ -767,7 +767,7 @@
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -776,7 +776,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -784,7 +784,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/10/17/sindrome-del-impostor/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/10/17/sindrome-del-impostor/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:25:52</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -826,7 +826,7 @@
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/dan_abramov">Dan Abramov</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/stoyanstefanov">Stoyan Stefanov</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://frontendfoc.us/">Frontend Focus</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://javascriptweekly.com/">JavaScript Weekly</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://javascriptweekly.com/">JavaScript Weekly</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE">Chrome and Web at Google I/O 2017</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA">JS Conf</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://css-tricks.com/">CSS-Tricks</a></li>
@@ -856,7 +856,7 @@
           <li><a href="https://github.com/GoogleChromeLabs/sw-toolbox">Service Worker Tools</a></li>
           <li><a href="https://github.com/GoogleChromeLabs/sw-precache">Service Worker Pre Cache</a></li>
           <li><a href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Tu primera Progressive Web App by Pete LaPage</a></li>
-          <li><a href="http://shop.oreilly.com/product/0636920052067.do">Building Progressive Web Apps</a></li>
+          <li><a href="https://shop.oreilly.com/product/0636920052067.do">Building Progressive Web Apps</a></li>
           <li><a href="https://deanhume.com/home/blogpost/a-big-list-of-progressive-web-app-tips-and-tricks/10160">A big list of progressive web app tips and tricks</a></li>
           <li><a href="https://channel9.msdn.com/events/Build/2017/C9R04">The State of Progressive Web Apps</a></li>
           <li><a href="https://css-tricks.com/production-progressive-web-apps-javascript-frameworks/">Production Progressive Web Apps with JavaScript Frameworks</a></li>
@@ -877,7 +877,7 @@
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -886,7 +886,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -894,7 +894,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/10/03/progressive-web-apps/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/10/03/progressive-web-apps/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:11</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -926,7 +926,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -934,7 +934,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/09/25/mini-11/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/09/25/mini-11/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-11/WCD-Mini-11-Novedades.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-11/WCD-Mini-11-Novedades.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:08:48</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -970,7 +970,7 @@
           <li><span>Quién me ha inspirado: Mi familia</span></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/zeldman">Jeffry Zeldman</a></li>
           <li><span>Quién me ha inspirado: </span> <a href="https://twitter.com/jasonfried?lang=es">Jason Fried</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://www.creativebloq.com/net-magazine">net magazine</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.creativebloq.com/net-magazine">net magazine</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://alistapart.com/">Alistapart</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://tympanus.net/codrops/">Codrops</a></li>
           <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/rociovaldi">Rocío Valdivia</a></li>
@@ -989,7 +989,7 @@
 
         <ul>
           <li><a href="https://2017.madrid.wordcamp.org/">Madrid WordCamp</a></li>
-          <li><a href="http://tantek.com">Tantek</a></li>
+          <li><a href="https://tantek.com">Tantek</a></li>
           <li><a href="https://indieweb.org/">IndieWeb</a></li>
           <li><a href="https://mastodon.social/about">Mastodon</a></li>
           <li><a href="https://micro.blog/">Micro.blog</a></li>
@@ -1001,7 +1001,7 @@
 
         <ul>
           <li><a href="https://ciudadanob.com/blog/2017/04/24/defender-la-web-abierta-5-reflexiones-mejorar-futuro/">¿Por qué defender la web abierta? 5 reflexiones para mejorar nuestro futuro</a></li>
-          <li><a href="http://tantek.com/2010/281/b1/what-is-the-open-web">What is the Open Web?</a></li>
+          <li><a href="https://tantek.com/2010/281/b1/what-is-the-open-web">What is the Open Web?</a></li>
           <li><a href="https://www.mozilla.org/es-ES/about/manifesto/">El manifiesto de Mozilla</a></li>
           <li><a href="https://www.sitepoint.com/why-net-neutrality-matters/">What is Net Neutrality</a></li>
         </ul>
@@ -1009,7 +1009,7 @@
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -1018,7 +1018,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1026,7 +1026,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/09/19/la-web-abierta/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/09/19/la-web-abierta/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x07/WeCodeSign%202x07%20-%20La%20Web%20Abierta.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x07/WeCodeSign%202x07%20-%20La%20Web%20Abierta.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:11</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1050,7 +1050,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1058,7 +1058,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/09/12/mini-10/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/09/12/mini-10/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-10/WeCodeSign%20Mini%2010%20-%20Empresas%20Unicornio.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-10/WeCodeSign%20Mini%2010%20-%20Empresas%20Unicornio.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:45</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1097,32 +1097,32 @@
 
         <ul>
           <li><a href="https://twitter.com/kastwey">Twitter de Juanjo</a></li>
-          <li><a href="http://www.kastwey.org/">Web de Juanjo</a></li>
+          <li><a href="https://www.kastwey.org/">Web de Juanjo</a></li>
           <li><a href="https://www.programad.me/">Programad.me</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
-          <li><a href="http://a11ddemo.juanjo.co/">Ejemplos de Juanjo sobre accesibilidad</a></li>
+          <li><a href="https://a11ddemo.juanjo.co/">Ejemplos de Juanjo sobre accesibilidad</a></li>
           <li><a href="https://www.w3.org/WAI/intro/aria">WAI-ARIA</a></li>
-          <li><a href="http://leaverou.github.io/contrast-ratio/">Contrast Ratio by Lea Verou</a></li>
-          <li><a href="http://webaim.org/resources/contrastchecker/">WebAIM Color Checker</a></li>
+          <li><a href="https://leaverou.github.io/contrast-ratio/">Contrast Ratio by Lea Verou</a></li>
+          <li><a href="https://webaim.org/resources/contrastchecker/">WebAIM Color Checker</a></li>
         </ul>
 
         <h3>Recomendaciones de Ignacio</h3>
 
         <ul>
-          <li><a href="http://a11yproject.com/">a11y Project</a></li>
+          <li><a href="https://a11yproject.com/">a11y Project</a></li>
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques">Using ARIA</a></li>
-          <li><a href="http://webaim.org/intro/#principles">Principles of Accessible Design</a></li>
+          <li><a href="https://webaim.org/intro/#principles">Principles of Accessible Design</a></li>
           <li><a href="https://www.youtube.com/watch?v=SlTDIQwa6EA">Charla de Juanjo en el FrontFest</a></li>
         </ul>
 
         <h3>Patrocinadores</h3>
 
         <ul>
-          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+          <li><a href="https://fictizia.com/">Fictizia.com</a></li>
         </ul>
 
         <h3>Contacta con Ignacio</h3>
@@ -1131,7 +1131,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1139,7 +1139,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/09/05/accesibilidad-practica/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/09/05/accesibilidad-practica/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x06/WeCodeSign%202x06%20-%20Accesibilidad%20Pra%CC%81ctica.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x06/WeCodeSign%202x06%20-%20Accesibilidad%20Pra%CC%81ctica.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:14:04</itunes:duration>
         <itunes:keywords>Web, a11y, accesibilidad</itunes:keywords>
@@ -1163,7 +1163,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1171,7 +1171,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/07/25/mini-9/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/07/25/mini-9/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-9/WCD%20Mini%209%20-%20Miedo%20al%20fracaso.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-9/WCD%20Mini%209%20-%20Miedo%20al%20fracaso.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:15:58</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1214,20 +1214,20 @@
         <h3>Links del programa</h3>
 
         <ul>
-          <li><a href="http://keyframework.com/">Key Framework</a></li>
+          <li><a href="https://keyframework.com/">Key Framework</a></li>
           <li><a href="https://clojure.org/">Clojure</a></li>
           <li><a href="https://mootools.net/">mootools</a></li>
           <li><a href="https://jquery.com/">jQuery</a></li>
-          <li><a href="http://php.net/">PHP</a></li>
+          <li><a href="https://php.net/">PHP</a></li>
           <li><a href="https://www.haskell.org/">Haskell</a></li>
           <li><a href="https://www.ruby-lang.org/es/">Ruby</a></li>
           <li><a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a></li>
           <li><a href="https://www.perl.org/">Perl</a></li>
           <li><a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a></li>
           <li><a href="https://twitter.com/peepcode">Peep Code Tutorials</a></li>
-          <li><a href="http://www.kaleidos.net/">Kaleidos</a></li>
+          <li><a href="https://www.kaleidos.net/">Kaleidos</a></li>
           <li><a href="https://www.meetup.com/Haskell-MAD/">Haskell Mad</a></li>
-          <li><a href="http://docs.scala-lang.org/">Scala</a></li>
+          <li><a href="https://docs.scala-lang.org/">Scala</a></li>
           <li><a href="https://www.python.org/">Python</a></li>
           <li><a href="https://webpack.js.org/">Webpack</a></li>
           <li><a href="https://www.gnome.org/">gnome</a></li>
@@ -1248,7 +1248,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1256,7 +1256,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/07/18/camino-a-la-programacion-funcional/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/07/18/camino-a-la-programacion-funcional/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x05/WeCodeSign%202x05%20-%20Camino%20a%20la%20programacio%CC%81n%20funcional.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x05/WeCodeSign%202x05%20-%20Camino%20a%20la%20programacio%CC%81n%20funcional.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:09:40</itunes:duration>
         <itunes:keywords>Web, Funcional, UX, Diseño</itunes:keywords>
@@ -1280,7 +1280,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1288,7 +1288,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/07/11/mini-8/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/07/11/mini-8/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-8/WeCodeSign%20Mini%20-%208.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-8/WeCodeSign%20Mini%20-%208.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:59</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1319,7 +1319,7 @@
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/Flodar">Félix Ortega</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/wakkos">Daniel Martínez</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/danifornells">Daniel Fornells</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://octuweb.com/">Octuweb</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://octuweb.com/">Octuweb</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.browserstack.com/">Browserstack</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://developer.chrome.com/devtools">Developer Tools</a></li>
           <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/luishj">Luis Herrero</a></li>
@@ -1330,7 +1330,7 @@
 
         <ul>
           <li><a href="https://twitter.com/diana_aceves_">Twitter de Diana Aceves</a></li>
-          <li><a href="http://hoyheaprendido.es/">Web de Diana Aceves</a></li>
+          <li><a href="https://hoyheaprendido.es/">Web de Diana Aceves</a></li>
           <li><a href="https://www.linkedin.com/in/dianaaceves/">LinkedIn de Diana Aceves</a></li>
         </ul>
 
@@ -1345,7 +1345,7 @@
 
         <ul>
           <li><a href="https://alistapart.com/article/responsive-web-design">Responsive Web Design</a></li>
-          <li><a href="http://www.uxmatters.com/mt/archives/2012/03/mobile-first-what-does-it-mean.php">Mobile First: What Does It Mean?</a></li>
+          <li><a href="https://www.uxmatters.com/mt/archives/2012/03/mobile-first-what-does-it-mean.php">Mobile First: What Does It Mean?</a></li>
           <li><a href="https://www.uxpin.com/community/tutorials/adaptive-breakpoints/">Adaptive breakpoints</a></li>
           <li><a href="https://www.lukew.com/ff/entry.asp?933">Mobile First</a></li>
         </ul>
@@ -1356,7 +1356,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1364,7 +1364,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/07/04/mobile-first/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/07/04/mobile-first/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x04/WeCodeSign%202x04%20-%20Mobile%20First.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x04/WeCodeSign%202x04%20-%20Mobile%20First.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:32:00</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1388,7 +1388,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1396,7 +1396,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/06/27/mini-7/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/06/27/mini-7/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-7/WeCodeSign%20Mini%207%20-%20Salarios.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-7/WeCodeSign%20Mini%207%20-%20Salarios.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:30</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1433,7 +1433,7 @@
 
         <ul>
           <li><a href="https://twitter.com/luishj">Twitter de Luis Herrero</a></li>
-          <li><a href="http://luisherrero.es/">Web de Luis Herrero</a></li>
+          <li><a href="https://luisherrero.es/">Web de Luis Herrero</a></li>
         </ul>
 
         <h3>Links del programa</h3>
@@ -1446,8 +1446,8 @@
 
         <ul>
           <li><a href="https://www.genbetadev.com/trabajar-como-desarrollador/10-cosas-sobre-trabajar-en-remoto-que-quiza-no-habias-pensado-y-deberias-tener-en-cuenta">10 cosas sobre trabajar en remoto que quizá no habías pensado y deberías tener en cuenta</a></li>
-          <li><a href="http://www.hackemate.ninja/11-herramientas-para-trabajar-como-desarrollador-remoto-o-freelance/">11 herramientas para trabajar como desarrollador remoto o freelance</a></li>
-          <li><a href="http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/">We.Developers 044 – Trabajo en Remoto</a></li>
+          <li><a href="https://www.hackemate.ninja/11-herramientas-para-trabajar-como-desarrollador-remoto-o-freelance/">11 herramientas para trabajar como desarrollador remoto o freelance</a></li>
+          <li><a href="https://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/">We.Developers 044 – Trabajo en Remoto</a></li>
           <li><a href="https://www.shopify.com.mx/blog/el-trabajo-del-futuro-es-remoto-como-hacer-que-funcione-para-tu-negocio">El trabajo del futuro es remoto: cómo hacer que funcione para tu negocio</a></li>
         </ul>
 
@@ -1457,7 +1457,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1465,7 +1465,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/06/20/trabajando-en-remoto/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/06/20/trabajando-en-remoto/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x03/WeCodeSign%202x03%20-%20Trabajando%20en%20Remoto.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x03/WeCodeSign%202x03%20-%20Trabajando%20en%20Remoto.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:15:49</itunes:duration>
         <itunes:keywords>Web, Remoto</itunes:keywords>
@@ -1489,7 +1489,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1497,7 +1497,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/06/13/mini-6/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/06/13/mini-6/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-6-Juniors/WCD-Mini-6-Que-aportan-los-juniors.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-6-Juniors/WCD-Mini-6-Que-aportan-los-juniors.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:12:21</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1535,8 +1535,8 @@
 
         <ul>
           <li><a href="https://twitter.com/carlosble">Twitter de Carlos Blé</a></li>
-          <li><a href="http://www.carlosble.com">Github de Carlos Blé</a></li>
-          <li><a href="http://www.carlosble.com/libro-tdd/?lang=es">Libro: Diseño Ágil con TDD</a></li>
+          <li><a href="https://www.carlosble.com">Github de Carlos Blé</a></li>
+          <li><a href="https://www.carlosble.com/libro-tdd/?lang=es">Libro: Diseño Ágil con TDD</a></li>
           <li><a href="https://www.codesai.com/publications/">Codesai Blog</a></li>
         </ul>
 
@@ -1550,10 +1550,10 @@
           <li><a href="https://es.wikipedia.org/wiki/Lean_software_development">Lean software development</a></li>
           <li><a href="https://egghead.io/">egghead</a></li>
           <li><a href="https://github.com/spring-projects/spring-boot">Spring Boot</a></li>
-          <li><a href="http://knockoutjs.com/">Knockout.js</a></li>
+          <li><a href="https://knockoutjs.com/">Knockout.js</a></li>
           <li><a href="https://facebook.github.io/react/">React</a></li>
-          <li><a href="http://redux.js.org/">Redux.js</a></li>
-          <li><a href="http://www.castleproject.org/">Castle Project</a></li>
+          <li><a href="https://redux.js.org/">Redux.js</a></li>
+          <li><a href="https://www.castleproject.org/">Castle Project</a></li>
           <li><a href="https://vuejs.org/">Vue.js</a></li>
         </ul>
 
@@ -1563,7 +1563,7 @@
           <li><a href="https://www.aladetres.com/es/blog-esp/la-importancia-del-briefing.html">La importancia del Briefing</a></li>
           <li><a href="https://github.com/IgnaciodeNuevo/web-briefing-requirements">Briefing model for web projects</a></li>
           <li><a href="https://olgaconstanza.com/2013/10/15/guia-para-una-buena-toma-de-requisitos/">Guía para una buena toma de requisitos</a></li>
-          <li><a href="http://itakora.com/como-saber-lo-que-quiere-tu-cliente/#comment-24520">Cómo saber lo que quiere tu cliente</a></li>
+          <li><a href="https://itakora.com/como-saber-lo-que-quiere-tu-cliente/#comment-24520">Cómo saber lo que quiere tu cliente</a></li>
         </ul>
 
         <h3>Contacta con el programa</h3>
@@ -1572,7 +1572,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1580,7 +1580,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/06/06/toma-de-requisitos/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/06/06/toma-de-requisitos/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x02/WeCodeSign%202x02%20-%20Toma%20de%20Requisitos.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x02/WeCodeSign%202x02%20-%20Toma%20de%20Requisitos.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:51</itunes:duration>
         <itunes:keywords>Web, Briefing</itunes:keywords>
@@ -1604,7 +1604,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1612,7 +1612,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/05/30/mini-5/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/05/30/mini-5/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-5/WeCodeSign-Mini-5.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-5/WeCodeSign-Mini-5.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:11:53</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1639,16 +1639,16 @@
         <h3>Preguntas rápidas: Adalab: Rosario e Inés</h3>
 
         <ul>
-          <li><span>Quién me ha inspirado: </span><a href="http://laboratoria.la/team/profile/mariana-costa-checa1/">Mariana Costa Checa</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://laboratoria.la/team/profile/mariana-costa-checa1/">Mariana Costa Checa</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.bemytravelmuse.com/">Be my travel muse</a></li>
-          <li><span>Recomiéndanos a una invitada: </span><a href="http://laboratoria.la/team/">Los chicos de Laboratoria</a></li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="https://laboratoria.la/team/">Los chicos de Laboratoria</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>¿Se valora en la empresa la diversidad digital?</li>
         </ul>
 
         <h3>Contacta con: Adalab: Rosario e Inés</h3>
 
         <ul>
-          <li><a href="http://adalab.es/">Web de Adalab</a></li>
+          <li><a href="https://adalab.es/">Web de Adalab</a></li>
           <li><a href="https://twitter.com/AdaLab_Digital">Twitter de Adalab</a></li>
           <li><a href="https://www.facebook.com/AdaLabDigital/">Facebook de Adalab</a></li>
           <li><a href="https://www.linkedin.com/company-beta/15178940/">LinkedIn de Adalab</a></li>
@@ -1658,7 +1658,7 @@
         <h3>Links del programa</h3>
 
         <ul>
-          <li><a href="http://www.spreaker.com/user/9175618/women-in-tech_1">Women in Tech</a></li>
+          <li><a href="https://www.spreaker.com/user/9175618/women-in-tech_1">Women in Tech</a></li>
           <li><a href="https://www.theguardian.com/technology/2016/oct/04/twitter-women-gender-elon-musk-tim-cook">From Elon Musk to Tim Cook, tech leaders hardly follow women on Twitter</a></li>
           <li><a href="https://twitter.com/elaconf/status/783037944533704704">Ela Conf</a></li>
         </ul>
@@ -1670,9 +1670,9 @@
           <li><a href="https://sarahdrasnerdesign.com/">Sarah Drasner</a></li>
           <li><a href="https://twitter.com/una">Una Kravets</a></li>
           <li><a href="https://twitter.com/Codenewbies">Codenewbies</a></li>
-          <li><a href="http://codelandconf.com/">Codeland Conf</a></li>
-          <li><a href="http://frontgirls.io/">front girls <3</a></li>
-          <li><a href="http://lea.verou.me/">Lea Verou</a></li>
+          <li><a href="https://codelandconf.com/">Codeland Conf</a></li>
+          <li><a href="https://frontgirls.io/">front girls <3</a></li>
+          <li><a href="https://lea.verou.me/">Lea Verou</a></li>
         </ul>
 
         <h3>Contacta con el programa</h3>
@@ -1681,7 +1681,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1689,7 +1689,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/05/23/adalab/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/05/23/adalab/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x01/WeCodeSign%202x01%20-%20Adalab.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x01/WeCodeSign%202x01%20-%20Adalab.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:35</itunes:duration>
         <itunes:keywords>Web, Inclusión</itunes:keywords>
@@ -1713,7 +1713,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1721,7 +1721,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/05/16/mini-4/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/05/16/mini-4/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-4/WeCodeSign%20Mini%204%20-%20Un%20an%CC%83o%20de%20WeCodeSign.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-4/WeCodeSign%20Mini%204%20-%20Un%20an%CC%83o%20de%20WeCodeSign.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:14:46</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1760,14 +1760,14 @@
 
         <ul>
           <li><a href="https://twitter.com/karmel">Twitter de Carmel</a></li>
-          <li><a href="http://carmel.es/">Web de Carmel</a></li>
+          <li><a href="https://carmel.es/">Web de Carmel</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
           <li><a href="https://aframe.io/">A-FRAME</a></li>
-          <li><a href="http://johnny-five.io/">Johnny-Five</a></li>
+          <li><a href="https://johnny-five.io/">Johnny-Five</a></li>
           <li><a href="https://www.arduino.cc/">Arduino</a></li>
           <li><a href="https://vr.google.com/cardboard/">Cardboard</a></li>
         </ul>
@@ -1775,10 +1775,10 @@
         <h3>Recomendaciones de Ignacio</h3>
 
         <ul>
-          <li><a href="http://www.uxmatters.com/">UX Matters</a></li>
-          <li><a href="http://uxmag.com/">UX Magazine</a></li>
+          <li><a href="https://www.uxmatters.com/">UX Matters</a></li>
+          <li><a href="https://uxmag.com/">UX Magazine</a></li>
           <li><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed">The Encyclopedia of Human-Computer Interaction, 2nd Ed.</a></li>
-          <li><a href="http://www.informationisbeautiful.net/">information is beautiful</a></li>
+          <li><a href="https://www.informationisbeautiful.net/">information is beautiful</a></li>
         </ul>
 
         <h3>Contacta con el programa</h3>
@@ -1787,7 +1787,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1795,7 +1795,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/05/09/paradigmas-de-interaccion/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/05/09/paradigmas-de-interaccion/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:02:17</itunes:duration>
         <itunes:keywords>Web, Interacción, Diseño</itunes:keywords>
@@ -1819,7 +1819,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1827,7 +1827,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/05/02/mini-3/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/05/02/mini-3/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-3/WeCodeSign%20Mini%20-%203.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-3/WeCodeSign%20Mini%20-%203.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:13:25</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1865,28 +1865,28 @@
         <ul>
           <li><a href="https://twitter.com/nabaroa">Twitter de Naiara</a></li>
           <li><a href="https://github.com/nabaroa">Github de Naiara</a></li>
-          <li><a href="http://www.naknak.me/">Web de Naiara</a></li>
+          <li><a href="https://www.naknak.me/">Web de Naiara</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
           <li><a href="https://medium.freecodecamp.com/how-to-construct-a-design-system-864adbf2a117">How to construct a design system</a></li>
-          <li><a href="http://octuweb.com/design-systems-diseno-construye-producto/">Design systems: el diseño construye el producto</a></li>
+          <li><a href="https://octuweb.com/design-systems-diseno-construye-producto/">Design systems: el diseño construye el producto</a></li>
           <li><a href="https://24ways.org/2016/animation-in-design-systems/">Animation in Design Systems</a></li>
           <li><a href="https://nabaroa.github.io/erase-una-vez-el-design-system/#/">Erase una vez el design system</a></li>
           <li><a href="https://twitter.com/Aitortxu/status/827824977772703744">#bilbostack17 dibujitos de la charla de @nabaroa</a></li>
           <li><a href="https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript">Designing inspired style guides presentation slides and transcript</a></li>
-          <li><a href="http://styleguides.io/podcast/">Styleguide Podcast</a></li>
+          <li><a href="https://styleguides.io/podcast/">Styleguide Podcast</a></li>
         </ul>
 
         <h3>Recomendaciones de Ignacio</h3>
 
         <ul>
-          <li><a href="http://bradfrost.com/blog/post/interface-inventory/">Interface Inventory</a></li>
-          <li><a href="http://danmall.me/articles/cooking-with-design-systems/">Cooking with design systems</a></li>
-          <li><a href="http://designguidelines.co/">Design Guidelines</a></li>
-          <li><a href="http://styleguides.io/">Style Guides</a></li>
+          <li><a href="https://bradfrost.com/blog/post/interface-inventory/">Interface Inventory</a></li>
+          <li><a href="https://danmall.me/articles/cooking-with-design-systems/">Cooking with design systems</a></li>
+          <li><a href="https://designguidelines.co/">Design Guidelines</a></li>
+          <li><a href="https://styleguides.io/">Style Guides</a></li>
         </ul>
 
         <h3>Contacta con el programa</h3>
@@ -1895,7 +1895,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1903,7 +1903,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/04/25/design-systems/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/04/25/design-systems/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-26/WeCodeSign%201x26%20-%20Design%20Systems.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-26/WeCodeSign%201x26%20-%20Design%20Systems.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:49</itunes:duration>
         <itunes:keywords>Frontend, DesignSystems</itunes:keywords>
@@ -1927,7 +1927,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -1935,7 +1935,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/04/17/mini-2/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/04/17/mini-2/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignMini2/WeCodeSign%20Mini%20-%202.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignMini2/WeCodeSign%20Mini%20-%202.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:11:32</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -1960,21 +1960,21 @@
         <h3>Preguntas rápidas: Joan León</h3>
 
         <ul>
-          <li><span>Quién me ha inspirado: </span><a href="http://lea.verou.me/">Lea Verou</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://lea.verou.me/">Lea Verou</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://csswizardry.com/">Harry Roberts</a></li>
-          <li><span>Quién me ha inspirado: </span><a href="http://hugogiraudel.com/">Hugo Giraudel</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://hugogiraudel.com/">Hugo Giraudel</a></li>
           <li><span>Recomiéndanos un recurso: <a href="https://developer.mozilla.org/">MDN</a></span></li>
-          <li><span>Recomiéndanos un recurso: <a href="http://perf.rocks/">Perf.Rocks</a></span></li>
+          <li><span>Recomiéndanos un recurso: <a href="https://perf.rocks/">Perf.Rocks</a></span></li>
           <li><span>Recomiéndanos un recurso: <a href="https://app.devspace.io">DevSpace</a></span></li>
-          <li><span>Recomiéndanos un recurso: <a href="http://codepen.io/">Codepen</a></span></li>
+          <li><span>Recomiéndanos un recurso: <a href="https://codepen.io/">Codepen</a></span></li>
           <li><span>Recomiéndanos un recurso: <a href="https://github.com/nucliweb/People-You-Should-Follow-on-CodePen">People You Should Follow on CodePen</a></span></li>
           <li><span>Recomiéndanos a un o una invitad@: <a href="https://twitter.com/diana_aceves_">Diana Aceves</a></span></li>
           <li><span>Recomiéndanos a un o una invitad@: <a href="https://belenalbeza.com/">Belén Albeza</a></span></li>
-          <li><span>Recomiéndanos a un o una invitad@: <a href="http://w3.unpocodetodo.info/">Gabi</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://w3.unpocodetodo.info/">Gabi</a></span></li>
           <li><span>Recomiéndanos a un o una invitad@: <a href="https://github.com/spite">Jaume Sanchez</a></span></li>
-          <li><span>Recomiéndanos a un o una invitad@: <a href="http://www.danielguillan.com">Daniel Guillan</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://www.danielguillan.com">Daniel Guillan</a></span></li>
           <li><span>Recomiéndanos a un o una invitad@: <a href="https://github.com/danifornells">Daniel Fornells</a></span></li>
-          <li><span>Recomiéndanos a un o una invitad@: <a href="http://fernandojsg.com/">Fernando Serrano</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://fernandojsg.com/">Fernando Serrano</a></span></li>
           <li><span>Recomiéndanos a un o una invitad@: <a href="https://carlosvillu.com/">Carlos Villuendas</a></span></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: WebGL</span></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: Canvas</span></li>
@@ -1989,7 +1989,7 @@
         <ul>
           <li><a href="https://twitter.com/nucliweb">Twitter de Joan León</a></li>
           <li><a href="https://github.com/nucliweb">Blog de Joan León</a></li>
-          <li><a href="http://nucliweb.net/">Web de Joan León</a></li>
+          <li><a href="https://nucliweb.net/">Web de Joan León</a></li>
         </ul>
 
         <h3>Links del programa</h3>
@@ -1998,16 +1998,16 @@
 
         <ul>
           <li><a href="https://github.com/postcss/autoprefixer">Autoprefixer</a></li>
-          <li><a href="http://autoprefixer.github.io/">Autoprefixer Online</a></li>
+          <li><a href="https://autoprefixer.github.io/">Autoprefixer Online</a></li>
           <li><a href="https://twitter.com/autoprefixer">Autoprefixer Twitter</a></li>
           <li><a href="https://github.com/ai/browserslist">browserslist</a></li>
           <li><a href="https://github.com/reworkcss/rework">Rework</a></li>
           <li><a href="https://github.com/postcss/postcss">PostCSS</a></li>
           <li><a href="https://github.com/postcss/postcss/blob/master/docs/plugins.md">PostCSS Plugins List 1</a></li>
-          <li><a href="http://postcss.parts/">PostCSS Plugins List 2</a></li>
-          <li><a href="http://cssnext.io/">CSS Next</a></li>
+          <li><a href="https://postcss.parts/">PostCSS Plugins List 2</a></li>
+          <li><a href="https://cssnext.io/">CSS Next</a></li>
           <li><a href="https://github.com/jonathantneal/precss">Pre CSS</a></li>
-          <li><a href="http://cssnano.co/">CSS Nano</a></li>
+          <li><a href="https://cssnano.co/">CSS Nano</a></li>
           <li><a href="https://stylelint.io/">stylelint</a></li>
           <li><a href="https://github.com/postcss/postcss-import">postcss import</a></li>
           <li><a href="https://github.com/postcss/postcss-custom-properties">postcss-custom-properties</a></li>
@@ -2057,8 +2057,8 @@
 
         <ul>
           <li><a href="https://csswizardry.com/newsletter/">Harry Roberts - Newsletter</a></li>
-          <li><a href="http://css-weekly.com/">CSS Weekly</a></li>
-          <li><a href="http://jorgeatgu.github.io/slides/#/">Slides PostCSS - Jorge</a></li>
+          <li><a href="https://css-weekly.com/">CSS Weekly</a></li>
+          <li><a href="https://jorgeatgu.github.io/slides/#/">Slides PostCSS - Jorge</a></li>
           <li><a href="https://www.youtube.com/watch?v=oT0XJvUww_k">Introducción a PostCSS - Lourdes Montano - DevDayAR 2016</a></li>
         </ul>
 
@@ -2068,7 +2068,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2076,7 +2076,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/04/11/postcss/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/04/11/postcss/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:04</itunes:duration>
         <itunes:keywords>Frontend</itunes:keywords>
@@ -2100,7 +2100,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2108,7 +2108,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/04/03/mini-1/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/04/03/mini-1/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:11:01</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -2135,16 +2135,16 @@
         <ul>
           <li><span>Quién me ha inspirado: </span><a href="https://stallman.org/">Richard Stallman</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/fantasai">Elika J. Etemad</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://gridbyexample.com/">Grid by Example</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://gridbyexample.com/">Grid by Example</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://rachelandrew.co.uk/">Rachel Andrew</a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href="http://jensimmons.com/">Jen Simmons</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://jensimmons.com/">Jen Simmons</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://escss.blogspot.com/">ESCSS</a></li>
           <li><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/diegofgoberna/">Diego Fernandez</a></li>
           <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
           <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/Kseso">Kseso</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>El tema de realidad virtual en la web (WebVR)</li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>El futuro de CSS con todo el tema de Houdini</li>
-          <li><span>¿Qué tema te gustaría que tratásemos?: </span><a href="http://testthewebforward.org/">Test the Web Forward</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span><a href="https://testthewebforward.org/">Test the Web Forward</a></li>
         </ul>
 
         <h3>Contacta con: Manuel Rego</h3>
@@ -2176,10 +2176,10 @@
           <li><a href="https://bitsofco.de/css-grid-terminology/">CSS Grid Terminology</a></li>
           <li><a href="https://www.youtube.com/watch?v=xotm_GckeYY&feature=youtu.be">CSS Grid Layout ya está aquí! (video)</a></li>
           <li><a href="https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW">Entendiendo CSS Grid</a></li>
-          <li><a href="http://codepen.io/collection/DgwjNL/">Grid Layout</a></li>
-          <li><a href="http://codepen.io/collection/DEPOzv/">CSS Grid Talk Examples</a></li>
+          <li><a href="https://codepen.io/collection/DgwjNL/">Grid Layout</a></li>
+          <li><a href="https://codepen.io/collection/DEPOzv/">CSS Grid Talk Examples</a></li>
           <li><a href="https://blogs.igalia.com/mrego/tag/css-grid-layout/">Rego's Everyday Life</a></li>
-          <li><a href="http://jensimmons.com/post/feb-27-2017/learn-css-grid">Learn CSS Grid</a></li>
+          <li><a href="https://jensimmons.com/post/feb-27-2017/learn-css-grid">Learn CSS Grid</a></li>
         </ul>
 
         <h3>Contacta con el programa</h3>
@@ -2188,7 +2188,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2196,7 +2196,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/03/28/css-grid-layout/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/03/28/css-grid-layout/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:17:10</itunes:duration>
         <itunes:keywords>Frontend, Grid, Layout</itunes:keywords>
@@ -2237,17 +2237,17 @@
         <h3>Links del programa</h3>
 
         <ul>
-          <li><a href="http://adalab.es/">Adalab</a></li>
+          <li><a href="https://adalab.es/">Adalab</a></li>
           <li><a href="https://www.meetup.com/AdaBcnJS/">AdaBcnJS</a></li>
           <li><a href="https://twitter.com/WomanTechES">WomanTech</a></li>
-          <li><a href="http://osweekends.com/">Open Source Weekends</a></li>
+          <li><a href="https://osweekends.com/">Open Source Weekends</a></li>
           <li><a href="https://twitter.com/ladybenko">Belén Albeza</a></li>
         </ul>
 
         <h3>Recomendaciones de Ignacio</h3>
 
         <ul>
-          <li><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></li>
+          <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript</a></li>
           <li><a href="https://www.nostarch.com/javascriptforkids">JavaScript for Kids</a></li>
           <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
           <li><a href="https://www.enki.com/">Enki</a></li>
@@ -2259,7 +2259,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2267,7 +2267,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/03/13/de-educadora-a-frontend/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/03/13/de-educadora-a-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-23/WeCodeSign%201x23%20-%20De%20educadora%20a%20Front-end.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-23/WeCodeSign%201x23%20-%20De%20educadora%20a%20Front-end.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:59</itunes:duration>
         <itunes:keywords>Frontend</itunes:keywords>
@@ -2292,14 +2292,14 @@
         <h3>Preguntas rápidas: Wences Sanz</h3>
 
         <ul>
-          <li><span>Quién me ha inspirado: </span><a href="http://jrdg.com/">Javier Romero</a></li>
-          <li><span>Quién me ha inspirado: </span><a href="http://www.cruznovillo.com/">Cruz Novillo</a></li>
-          <li><span>Quién me ha inspirado: </span><a href="http://www.paul-rand.com/">Paul Rand</a></li>
-          <li><span>Quién me ha inspirado: </span><a href="http://saulbass.tv/">Saul Bass</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://jrdg.com/">Javier Romero</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://www.cruznovillo.com/">Cruz Novillo</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://www.paul-rand.com/">Paul Rand</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://saulbass.tv/">Saul Bass</a></li>
           <li><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann">Josef Müller-Brockmann</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://getpocket.com">Pocket</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.dropmark.com/">Dropmark</a></li>
-          <li><span>Recomiéndanos a un invitado: </span><a href="http://www.ritxiostariz.com/about/">Ritxi Ostáriz</a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href="https://www.ritxiostariz.com/about/">Ritxi Ostáriz</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>La formación</li>
         </ul>
 
@@ -2308,7 +2308,7 @@
         <ul>
           <li><a href="https://twitter.com/stereochromo?lang=es">Twitter de Wences Sanz</a></li>
           <li><a href="https://www.linkedin.com/in/stereochromo/">LinkedIn de Wences Sanz</a></li>
-          <li><a href="http://www.designmatazz.com/">Tumblr Designmatazz</a></li>
+          <li><a href="https://www.designmatazz.com/">Tumblr Designmatazz</a></li>
         </ul>
 
         <h3>Links del programa</h3>
@@ -2316,30 +2316,30 @@
         <ul>
           <li><a href="https://www.fjordnet.com/">Fjord</a></li>
           <li><a href="https://es.wikipedia.org/wiki/Escuela_de_la_Bauhaus">Bauhaus</a></li>
-          <li><a href="http://atipo.es/">Atipo Studio</a></li>
+          <li><a href="https://atipo.es/">Atipo Studio</a></li>
           <li><a href="https://fonts.google.com/">Google Fonts</a></li>
           <li><a href="https://typekit.com/">Typekit</a></li>
-          <li><a href="http://www.yugop.com/">Yugo Nakamura</a></li>
-          <li><a href="http://hi-res.net/">Hi-res</a></li>
+          <li><a href="https://www.yugop.com/">Yugo Nakamura</a></li>
+          <li><a href="https://hi-res.net/">Hi-res</a></li>
           <li><a href="https://developer.mozilla.org/es/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL">WebGL</a></li>
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API">WebVR</a></li>
           <li><a href="https://www.chromeexperiments.com">Chrome Experiments</a></li>
           <li><a href="https://www.awwwards.com/">Awwwards</a></li>
           <li><a href="https://thefwa.com/">FWA</a></li>
           <li><a href="https://www.siteinspire.com/">SiteInspire</a></li>
-          <li><a href="http://graffica.info/">Graffica</a></li>
+          <li><a href="https://graffica.info/">Graffica</a></li>
           <li><a href="https://www.rga.com/">R/GA</a></li>
           <li><a href="https://es.squarespace.com/">Squarespace</a></li>
           <li><a href="https://fabrik.io/">fabrik</a></li>
-          <li><a href="http://www.semplicelabs.com/">Semplice Lab</a></li>
-          <li><a href="http://virb.com/">Virb</a></li>
-          <li><a href="http://helloenjoy.com">Carlos Ulloa</a></li>
+          <li><a href="https://www.semplicelabs.com/">Semplice Lab</a></li>
+          <li><a href="https://virb.com/">Virb</a></li>
+          <li><a href="https://helloenjoy.com">Carlos Ulloa</a></li>
         </ul>
 
         <h3>Recomendaciones de Ignacio</h3>
 
         <ul>
-          <li><a href="http://www.webdesignerdepot.com/2016/10/essential-design-trends-november-2016/">Essential design trends, November 2016</a></li>
+          <li><a href="https://www.webdesignerdepot.com/2016/10/essential-design-trends-november-2016/">Essential design trends, November 2016</a></li>
           <li><a href="https://webflow.com/blog/18-web-design-trends-for-2017">18 web design trends for 2017</a></li>
           <li><a href="https://www.zazzlemedia.co.uk/blog/digital-design-trends/">Web Design Trends for 2017</a></li>
           <li><a href="https://blog.hubspot.com/marketing/web-design-trends-2017#sm.00ckk7pr19wpe3g10b421sw9hg012">13 Web Design Trends to Watch in 2017</a></li>
@@ -2353,7 +2353,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2361,7 +2361,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:21</itunes:duration>
         <itunes:keywords>WebDesign</itunes:keywords>
@@ -2388,7 +2388,7 @@
         <ul>
           <li><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Don_Norman">Don Norman</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://twitter.com/uxnights">UX Nights</a></li>
-          <li><span>Recomiéndanos a un invitado: </span><a href="http://revista.uxnights.com/author/victorgarcia/">Víctor García</a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href="https://revista.uxnights.com/author/victorgarcia/">Víctor García</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>Internet of Things</li>
         </ul>
 
@@ -2402,16 +2402,16 @@
         <h3>Links del programa</h3>
 
         <ul>
-          <li><a href="http://mexico.uxnights.com/">UX Nights</a></li>
+          <li><a href="https://mexico.uxnights.com/">UX Nights</a></li>
           <li><a href="https://en.wikipedia.org/wiki/User_experience_design">User experience design</a></li>
           <li><a href="https://en.wikipedia.org/wiki/Design_thinking">Design Thinking</a></li>
-          <li><a href="http://www.jjg.net/elements/">The Elements of User Experience </a></li>
+          <li><a href="https://www.jjg.net/elements/">The Elements of User Experience </a></li>
         </ul>
 
         <h3>Recomendaciones de Ignacio</h3>
 
         <ul>
-          <li><a href="http://blog.invisionapp.com/ux-design-trends-2017/">UX DESIGN TRENDS FOR 2017</a></li>
+          <li><a href="https://blog.invisionapp.com/ux-design-trends-2017/">UX DESIGN TRENDS FOR 2017</a></li>
           <li><a href="https://medium.com/tag/ux">Medium - UX</a></li>
           <li><a href="https://medium.com/net-magazine/why-we-need-ladies-that-ux-931c54b2c576#.rff46h4m1">Why we need ladies that UX?</a></li>
           <li><a href="https://www.xataka.com/servicios/cuanto-ha-influido-el-diseno-web-en-el-exito-y-fracaso-de-los-ganadores-y-perdedores-de-la-tecnologia">Influencia del diseño web en ganadores y perdedores</a></li>
@@ -2423,7 +2423,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2431,7 +2431,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/02/14/presente-y-futuro-del-ux/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/02/14/presente-y-futuro-del-ux/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:58</itunes:duration>
         <itunes:keywords>UX</itunes:keywords>
@@ -2475,22 +2475,22 @@
         <ul>
           <li><a href="https://www.linkedin.com/in/ulisesgascon/en">LinkedIn de Ulises Gascón</a></li>
           <li><a href="https://twitter.com/kom_256">Twitter de Ulises Gascón</a></li>
-          <li><a href="http://www.blog.ulisesgascon.com/">Blog de Ulises Gascón</a></li>
+          <li><a href="https://www.blog.ulisesgascon.com/">Blog de Ulises Gascón</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
           <li><a href="https://es.wikipedia.org/wiki/C%C3%B3digo_abierto">Open Source</a></li>
-          <li><a href="http://backbonejs.org/">Backbone.js</a></li>
+          <li><a href="https://backbonejs.org/">Backbone.js</a></li>
           <li><a href="https://github.com/OSWeekends/know-your-SNPs">Genome.js</a></li>
           <li><a href="https://www.aaron-gustafson.com/">Aaron Gustafson</a></li>
           <li><a href="https://belenalbeza.com/">Belén Albeza</a></li>
           <li><a href="https://angularjs.org/">Angular.js</a></li>
           <li><a href="https://www.redhat.com/es">Redhat</a></li>
-          <li><a href="http://www.php.net/">PHP</a></li>
+          <li><a href="https://www.php.net/">PHP</a></li>
           <li><a href="https://nodejs.org/en/">Node.js</a></li>
-          <li><a href="http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm">Left-pad</a></li>
+          <li><a href="https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm">Left-pad</a></li>
           <li><a href="https://js.io/">JS.io</a></li>
           <li><a href="https://git-scm.com/">Git</a></li>
           <li><a href="https://github.com/">Github</a></li>
@@ -2509,7 +2509,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2517,7 +2517,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/01/31/la-importancia-del-open-source/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/01/31/la-importancia-del-open-source/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-20/WeCodeSign%201x20%20-%20La%20importancia%20del%20Open%20Source.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-20/WeCodeSign%201x20%20-%20La%20importancia%20del%20Open%20Source.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:58:43</itunes:duration>
         <itunes:keywords>OpenSource, SoftwareLibre</itunes:keywords>
@@ -2578,7 +2578,7 @@
         <h3>Recomendaciones de Nacho</h3>
 
         <ul>
-          <li><a href="http://www.unono.net">Unono</a></li>
+          <li><a href="https://www.unono.net">Unono</a></li>
           <li><a href="https://www.jobfluent.com">Jobfluent</a></li>
           <li><a href="https://www.glassdoor.com/index.htm">Glassdoor</a></li>
           <li><a href="https://www.indeed.es">Indeed</a></li>
@@ -2590,7 +2590,7 @@
           <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
           <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
@@ -2598,7 +2598,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/01/17/reclutando-talento/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/01/17/reclutando-talento/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:48:29</itunes:duration>
         <itunes:keywords>Recruiting</itunes:keywords>
@@ -2656,8 +2656,8 @@
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
-              <li><a href="http://www.uxspain.com/2017/">UXSpain</a></li>
-              <li><a href="http://experiencefighters.com/">Experience Fighters</a></li>
+              <li><a href="https://www.uxspain.com/2017/">UXSpain</a></li>
+              <li><a href="https://experiencefighters.com/">Experience Fighters</a></li>
             </ul>
 
             <h3>Contacta con el programa</h3>
@@ -2666,7 +2666,7 @@
               <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
               <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
               <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-              <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+              <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
               <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -2674,7 +2674,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2017/01/03/metodologias-de-trabajo/</link>
         <guid>https://carmenansio.github.io/wecodesign/2017/01/03/metodologias-de-trabajo/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:40:44</itunes:duration>
         <itunes:keywords>Metodologías, Trabajo, Methodologies</itunes:keywords>
@@ -2704,15 +2704,15 @@
           <h3>Eventos en Madrid</h3>
 
           <li><a href="https://osweekends.github.io/">OpenSource Weekends</a></li>
-          <li><a href="http://frontfest.es/">FrontFest</a></li>
+          <li><a href="https://frontfest.es/">FrontFest</a></li>
 
           <h3>Recomendaciones</h3>
 
           <h3>Preguntas rápidas: Jorge Aznar</h3>
 
           <ul>
-            <li><span>Quién me ha inspirado: </span><a href="http://jxnblk.com/">Brent Jackson</a></li>
-            <li><span>Quién me ha inspirado: </span><a href="http://mrmrs.cc/">Adam Morse</a></li>
+            <li><span>Quién me ha inspirado: </span><a href="https://jxnblk.com/">Brent Jackson</a></li>
+            <li><span>Quién me ha inspirado: </span><a href="https://mrmrs.cc/">Adam Morse</a></li>
             <li><span>Recomiéndanos un recurso: </span><a href="https://escss.blogspot.com/">Kescss</a></li>
             <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/flodar">Félix Ortega</a></li>
             <li><span>Recomiéndanos a un invitado: </span><a href="https://www.dariobf.com/">Darío Balbontín</a></li>
@@ -2723,7 +2723,7 @@
           <h3>Contacta con: Jorge Aznar</h3>
 
           <ul>
-            <li><a href="http://jorgeatgu.com/">Web</a></li>
+            <li><a href="https://jorgeatgu.com/">Web</a></li>
             <li><a href="https://twitter.com/jorgeATGU">Twitter</a></li>
             <li><a href="https://github.com/jorgeatgu">Github</a></li>
           </ul>
@@ -2733,13 +2733,13 @@
           <ul>
             <li><a href="https://leanpub.com/scalable/">Scalable</a></li>
             <li><a href="https://jakearchibald.github.io/svgomg/">SVGOMG</a></li>
-            <li><a href="http://materialdesignicons.com">Material Design Icons</a></li>
+            <li><a href="https://materialdesignicons.com">Material Design Icons</a></li>
             <li><a href="https://www.sketchapp.com/">Sketch App</a></li>
             <li><a href="https://inkscape.org/es/">Inkcape</a></li>
-            <li><a href="http://www.adobe.com/es/products/illustrator.html">Illustrator</a></li>
+            <li><a href="https://www.adobe.com/es/products/illustrator.html">Illustrator</a></li>
             <li><a href="https://twitter.com/leoniewatson">Leonie Watson</a></li>
             <li><a href="https://www.sitepoint.com/tips-accessible-svg">SVG Accesible</a></li>
-            <li><a href="http://responsivelogos.co.uk/">Responsive Logos</a></li>
+            <li><a href="https://responsivelogos.co.uk/">Responsive Logos</a></li>
             <li><a href="https://una.im/CSSgram/">CSSgram</a></li>
             <li><a href="https://github.com/scottjehl/picturefill">Picturefill</a></li>
             <li><a href="https://madebymike.com.au/writing/svg-has-more-potential/">SVG has more potential</a></li>
@@ -2750,7 +2750,7 @@
             <li><a href="https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/">An Overview of SVG Sprite Creation Techniques</a></li>
             <li><a href="https://vimeo.com/135466848">SVG Lessons I Learned The Hard Way</a></li>
             <li><a href="https://www.w3.org/TR/SVG2/">SVG2 - W3C</a></li>
-            <li><a href="http://tavmjong.free.fr/svg2_status.html">SVG2 Status</a></li>
+            <li><a href="https://tavmjong.free.fr/svg2_status.html">SVG2 Status</a></li>
             <li><a href="https://css-tricks.com/guide-svg-animations-smil/">smil animation</a></li>
             <li><a href="https://imageoptim.com/mac">Image Optim (Mac)</a></li>
             <li><a href="https://pngmini.com/">PNG Min (Mac)</a></li>
@@ -2772,7 +2772,7 @@
               <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
               <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
               <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-              <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+              <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
               <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -2780,7 +2780,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/12/20/SVG/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/12/20/SVG/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:28</itunes:duration>
         <itunes:keywords>SVG, Image</itunes:keywords>
@@ -2812,16 +2812,16 @@
             <h3>Eventos en Madrid</h3>
 
             <li><a href="https://osweekends.github.io/">OpenSource Weekends</a></li>
-            <li><a href="http://frontfest.es/">FrontFest</a></li>
+            <li><a href="https://frontfest.es/">FrontFest</a></li>
 
             <h3>Recomendaciones</h3>
 
             <h3>Preguntas rápidas: Belén Albeza</h3>
 
             <ul>
-              <li><span>Quién me ha inspirado: </span><a href="http://msminotaur.com/">Adriel Wallick</a></li>
+              <li><span>Quién me ha inspirado: </span><a href="https://msminotaur.com/">Adriel Wallick</a></li>
               <li><span>Recomiéndanos un recurso: </span><a href="https://developer.mozilla.org/es/">Mozilla Developer Network</a></li>
-              <li><span>Recomiéndanos un recurso: </span><a href="http://caniuse.com/">Can I use</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://caniuse.com/">Can I use</a></li>
               <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/blanca_tp?lang=es">Blanca Tortajada</a></li>
               <li><span>¿Qué tema te gustaría que tratásemos?: </span>Grid Layout</li>
             </ul>
@@ -2841,32 +2841,32 @@
               <li><a href="https://en.bem.info/">BEM</a></li>
               <li><a href="https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/">OOCSS</a></li>
               <li><a href="https://smacss.com/">SMACSS</a></li>
-              <li><a href="http://cssguidelin.es/">CSS Guidelines</a></li>
-              <li><a href="http://www.maban.co.uk/">Anna Debenham</a></li>
-              <li><a href="http://www.maban.co.uk/projects/front-end-style-guides/">Libro de Anna Debenham</a></li>
-              <li><a href="http://www.bbc.co.uk/gel">GEL</a></li>
-              <li><a href="http://styleguide.mailchimp.com/">Mailchimp</a></li>
+              <li><a href="https://cssguidelin.es/">CSS Guidelines</a></li>
+              <li><a href="https://www.maban.co.uk/">Anna Debenham</a></li>
+              <li><a href="https://www.maban.co.uk/projects/front-end-style-guides/">Libro de Anna Debenham</a></li>
+              <li><a href="https://www.bbc.co.uk/gel">GEL</a></li>
+              <li><a href="https://styleguide.mailchimp.com/">Mailchimp</a></li>
               <li><a href="https://www.youtube.com/watch?v=kED5eDjMfGM">You might not need a CSS framework (video)</a></li>
               <li><a href="https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/">You might not need a CSS framework (artículo)</a></li>
               <li><a href="https://hacks.mozilla.org/2016/05/css-coding-techniques/">CSS coding techniques</a></li>
               <li><a href="https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/">The future of layout with CSS: Grid Layouts</a></li>
               <li><a href="https://www.w3.org/TR/selectors/#specificity">Specificity</a></li>
-              <li><a href="http://getbootstrap.com/">Bootstrap</a></li>
-              <li><a href="http://foundation.zurb.com/">Foundation</a></li>
-              <li><a href="http://www.brucelawson.co.uk/">Bruce Lawson</a></li>
+              <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+              <li><a href="https://foundation.zurb.com/">Foundation</a></li>
+              <li><a href="https://www.brucelawson.co.uk/">Bruce Lawson</a></li>
               <li><a href="https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/">Feature Queries</a></li>
               <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@supports">@supports</a></li>
-              <li><a href="http://www.lottejackson.com/learning/supports-will-change-your-life">Supports will change your life</a></li>
-              <li><a href="http://gridbyexample.com/">Grid by Example</a></li>
-              <li><a href="http://labs.jensimmons.com/">Labs Jen Simmons</a></li>
-              <li><a href="http://csswizardry.com/2012/05/keep-your-css-selectors-short/">Writing efficient CSS selectors</a></li>
+              <li><a href="https://www.lottejackson.com/learning/supports-will-change-your-life">Supports will change your life</a></li>
+              <li><a href="https://gridbyexample.com/">Grid by Example</a></li>
+              <li><a href="https://labs.jensimmons.com/">Labs Jen Simmons</a></li>
+              <li><a href="https://csswizardry.com/2012/05/keep-your-css-selectors-short/">Writing efficient CSS selectors</a></li>
             </ul>
 
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
-              <li><a href="http://csswizardry.com/">Harry Roberts</a></li>
-              <li><a href="http://hugogiraudel.com/">Hugo Giraudel</a></li>
+              <li><a href="https://csswizardry.com/">Harry Roberts</a></li>
+              <li><a href="https://hugogiraudel.com/">Hugo Giraudel</a></li>
             </ul>
 
             <h3>Contacta con el programa</h3>
@@ -2875,7 +2875,7 @@
               <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
               <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
               <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-              <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+              <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
               <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -2883,7 +2883,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/12/06/buenas-practicas-css/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/12/06/buenas-practicas-css/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:37:36</itunes:duration>
         <itunes:keywords>Frontend, CSS</itunes:keywords>
@@ -2898,7 +2898,7 @@
 
             <h3>Descripcion del programa</h3>
 
-            <p>Hoy es un programa muy especial, por un lado porque por fin puedo presentar dos iniciativas que se están realizando en la Madrid, la primera es un Meetup,<a href="https://osweekends.github.io/">OpenSource Weekends</a> que se realiza mensualmente un sábado al mes de 10:30h a 14:30h y la segunda es la apertura del Call for Papers de una conferencia que estamos organizando y que tendrá lugar en Campus Madrid el 18 de febrero de 2017 llamada <a href="http://frontfest.es/">FrontFest</a>.</p>
+            <p>Hoy es un programa muy especial, por un lado porque por fin puedo presentar dos iniciativas que se están realizando en la Madrid, la primera es un Meetup,<a href="https://osweekends.github.io/">OpenSource Weekends</a> que se realiza mensualmente un sábado al mes de 10:30h a 14:30h y la segunda es la apertura del Call for Papers de una conferencia que estamos organizando y que tendrá lugar en Campus Madrid el 18 de febrero de 2017 llamada <a href="https://frontfest.es/">FrontFest</a>.</p>
 
             <p>Hoy como invitado traigo a una persona que conocí en un Meetup de los múltiples que se realizan en Madrid y que nos ayudará a entender el ecosistema de herramientas que usamos día a día y para que sirven.</p>
 
@@ -2915,7 +2915,7 @@
             <h3>Eventos en Madrid</h3>
 
             <li><a href="https://osweekends.github.io/">OpenSource Weekends</a></li>
-            <li><a href="http://frontfest.es/">FrontFest</a></li>
+            <li><a href="https://frontfest.es/">FrontFest</a></li>
 
             <h3>Recomendaciones</h3>
 
@@ -2924,7 +2924,7 @@
             <ul>
               <li><span>Quién me ha inspirado: </span><a href="https://es.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></li>
               <li><span>Recomiéndanos un recurso: </span><a href="https://www.sitepoint.com/">Sitepoint</a></li>
-              <li><span>Recomiéndanos un recurso: </span><a href="http://www.genbetadev.com/">Genbeta Dev</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://www.genbetadev.com/">Genbeta Dev</a></li>
               <li><span>Recomiéndanos a un invitado: </span><a href="https://www.igvita.com/">Ilya Grigorik</a></li>
               <li><span>¿Qué tema te gustaría que tratásemos?: </span>Otros lenguajes de programación para el Frontend</li>
               <li><span>¿Qué tema te gustaría que tratásemos?: </span>Web Asambly</li>
@@ -2942,23 +2942,23 @@
             <ul>
               <li><a href="https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.wnfw4y49u">How JavaScript package managers work</a></li>
               <li><a href="https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript/">Yarn a new package manager</a></li>
-              <li><a href="http://andrewhfarmer.com/javascript-frontend-package-managers/">JS frontend pagckage managers</a></li>
+              <li><a href="https://andrewhfarmer.com/javascript-frontend-package-managers/">JS frontend pagckage managers</a></li>
               <li><a href="https://github.com/wilmoore/frontend-packagers">Package managers comparison</a></li>
               <li><a href="https://medium.freecodecamp.com/npm-vs-yarn-benchmark-9b456de4aa96#.hgggcx6ia">Yarn benchmarks</a></li>
               <li><a href="https://www.youtube.com/watch?v=hP7rrjR1RYY">Charla de automatización en el frontend</a></li>
-              <li><a href="http://kangax.github.io/compat-table/es6/">ECMAScript 2016 compatibility table</a></li>
+              <li><a href="https://kangax.github.io/compat-table/es6/">ECMAScript 2016 compatibility table</a></li>
               <li><a href="https://bower.io/">Bower</a></li>
               <li><a href="https://www.npmjs.com/">NPM</a></li>
               <li><a href="https://yarnpkg.com/">Yarn</a></li>
-              <li><a href="http://jspm.io/">JSPM</a></li>
-              <li><a href="http://broccolijs.com/">Broccoli</a></li>
-              <li><a href="http://gulpjs.com/">Gulp</a></li>
-              <li><a href="http://gruntjs.com/">Grunt</a></li>
+              <li><a href="https://jspm.io/">JSPM</a></li>
+              <li><a href="https://broccolijs.com/">Broccoli</a></li>
+              <li><a href="https://gulpjs.com/">Gulp</a></li>
+              <li><a href="https://gruntjs.com/">Grunt</a></li>
               <li><a href="https://babeljs.io/">Babel</a></li>
               <li><a href="https://webpack.github.io/">Webpack</a></li>
               <li><a href="https://codekitapp.com/">Codekit</a></li>
-              <li><a href="http://webassembly.org/">WebAssembly</a></li>
-              <li><a href="http://elm-lang.org/">elm</a></li>
+              <li><a href="https://webassembly.org/">WebAssembly</a></li>
+              <li><a href="https://elm-lang.org/">elm</a></li>
               <li><a href="https://clojurescript.org/">Clojurescript</a></li>
               <li><a href="https://www.scala-lang.org/">Scala</a></li>
             </ul>
@@ -2976,7 +2976,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -2984,7 +2984,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/11/22/herramientas-del-frontend/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/11/22/herramientas-del-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:00:56</itunes:duration>
         <itunes:keywords>Tools, Front-end, Frontend, Task Runners, Dependencie Managers, Transpilers</itunes:keywords>
@@ -3011,7 +3011,7 @@
 
             <ul>
               <li><span>Quién me ha inspirado: </span><a href="https://www.flinders.edu.au/sabs/inclusivity/web-accessibility/krug.cfm">Steve Krug</a></li>
-              <li><span>Recomiéndanos un recurso: </span><a href="http://wave.webaim.org/">Wave</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://wave.webaim.org/">Wave</a></li>
               <li><span>Recomiéndanos a un invitado: </span><a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a></li>
               <li><span>¿Qué tema te gustaría que tratásemos?: </span>Usabilidad en formularios</li>
             </ul>
@@ -3020,7 +3020,7 @@
 
             <ul>
               <li><a href="https://twitter.com/jonathanchacon">Twitter</a></li>
-              <li><a href="http://www.programaraciegas.net/">Web</a></li>
+              <li><a href="https://www.programaraciegas.net/">Web</a></li>
             </ul>
 
             <h3>Links del programa</h3>
@@ -3029,14 +3029,14 @@
               <li><a href="https://pathtoperf.com/2016/09/29/12-with-marcy-sutton.html">Path to Perf Podcast - Performance and Accesibility</a></li>
               <li><a href="https://www.w3.org/WAI/intro/aria">ARIA</a></li>
               <li><a href="https://marcysutton.com/accessibility-and-performance/">Accessibility and Performance</a></li>
-              <li><a href="http://baymard.com/blog/inline-form-validation">Usability Testing of Inline Form Validation</a></li>
+              <li><a href="https://baymard.com/blog/inline-form-validation">Usability Testing of Inline Form Validation</a></li>
               <li><a href="https://twitter.com/stevefaulkner/status/789410040058785792">Browsers accesibility support</a></li>
               <li><a href="https://speakerdeck.com/robdodson/accessibility-in-the-platform">Accessibility in the Platform</a></li>
               <li><a href="https://en.wikipedia.org/wiki/List_of_screen_readers">Screen Readers</a></li>
               <li><a href="https://opendevicelab.com/">Device Lab</a></li>
-              <li><a href="http://manifesto.softwarecraftsmanship.org/">Software Craftsmanship</a></li>
-              <li><a href="http://www.tawdis.net/">TAW</a></li>
-              <li><a href="http://wave.webaim.org/">wave</a></li>
+              <li><a href="https://manifesto.softwarecraftsmanship.org/">Software Craftsmanship</a></li>
+              <li><a href="https://www.tawdis.net/">TAW</a></li>
+              <li><a href="https://wave.webaim.org/">wave</a></li>
               <li><a href="https://tenon.io/">Tenon</a></li>
               <li><a href="https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/">The Browser Accessibility Tree</a></li>
             </ul>
@@ -3047,7 +3047,7 @@
               <li><a href="https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/">Dos and don'ts on designing for accessibility</a></li>
               <li><a href="https://www.w3.org/WAI/intro/wcag">Web Content Accessibility Guidelines</a></li>
               <li><a href="https://a11ywins.tumblr.com/">Accessibility Wins</a></li>
-              <li><a href="http://a11yproject.com">A11y Project</a></li>
+              <li><a href="https://a11yproject.com">A11y Project</a></li>
             </ul>
 
             <h3>Contacta con el programa</h3>
@@ -3056,7 +3056,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3064,7 +3064,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/11/08/accesibilidad-en-la-web/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/11/08/accesibilidad-en-la-web/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:23</itunes:duration>
         <itunes:keywords>Accesibilidad, Web</itunes:keywords>
@@ -3120,38 +3120,38 @@
               <li><a href="https://github.com/stubbornella/oocss/wiki">OOCSS</a></li>
               <li><a href="https://www.w3.org/TR/2016/CR-css-grid-1-20160929/">Grid Layout</a></li>
               <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes">Flex Layout</a></li>
-              <li><a href="http://lesscss.org/">LESS</a></li>
-              <li><a href="http://sass-lang.com/">Sass</a></li>
-              <li><a href="http://stylus-lang.com/">Stylus</a></li>
-              <li><a href="http://hammerformac.com/docs/index.html">Hammer</a></li>
+              <li><a href="https://lesscss.org/">LESS</a></li>
+              <li><a href="https://sass-lang.com/">Sass</a></li>
+              <li><a href="https://stylus-lang.com/">Stylus</a></li>
+              <li><a href="https://hammerformac.com/docs/index.html">Hammer</a></li>
               <li><a href="https://incident57.com/codekit/">CodeKit</a></li>
-              <li><a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a></li>
-              <li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+              <li><a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a></li>
+              <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
               <li><a href="https://wordpress.org/">WordPress</a></li>
-              <li><a href="http://foundation.zurb.com/">Fundation</a></li>
+              <li><a href="https://foundation.zurb.com/">Fundation</a></li>
               <li><a href="https://jquery.com/">jQuery</a></li>
-              <li><a href="http://backbonejs.org/">Backbone</a></li>
-              <li><a href="http://emberjs.com/">Ember</a></li>
+              <li><a href="https://backbonejs.org/">Backbone</a></li>
+              <li><a href="https://emberjs.com/">Ember</a></li>
               <li><a href="https://angularjs.org/">Angular</a></li>
               <li><a href="https://facebook.github.io/react/">React</a></li>
-              <li><a href="http://es6-features.org/">ES6 (no oficial)</a></li>
-              <li><a href="http://bluebirdjs.com/docs/getting-started.html">Bluebird</a></li>
+              <li><a href="https://es6-features.org/">ES6 (no oficial)</a></li>
+              <li><a href="https://bluebirdjs.com/docs/getting-started.html">Bluebird</a></li>
               <li><a href="https://facebook.github.io/flux/">Flux</a></li>
-              <li><a href="http://redux.js.org/docs/basics/UsageWithReact.html">React Redux</a></li>
+              <li><a href="https://redux.js.org/docs/basics/UsageWithReact.html">React Redux</a></li>
               <li><a href="https://babeljs.io/">Babel</a></li>
-              <li><a href="http://gruntjs.com/">Grunt</a></li>
-              <li><a href="http://gulpjs.com/">Gulp</a></li>
+              <li><a href="https://gruntjs.com/">Grunt</a></li>
+              <li><a href="https://gulpjs.com/">Gulp</a></li>
               <li><a href="https://www.npmjs.com/">NPM</a></li>
               <li><a href="https://bower.io/">Bower</a></li>
-              <li><a href="http://browserify.org/">Browserify</a></li>
-              <li><a href="http://jspm.io/">JSPM</a></li>
-              <li><a href="http://jasmine.github.io/">Jasmine</a></li>
+              <li><a href="https://browserify.org/">Browserify</a></li>
+              <li><a href="https://jspm.io/">JSPM</a></li>
+              <li><a href="https://jasmine.github.io/">Jasmine</a></li>
               <li><a href="https://mochajs.org/">Mocha</a></li>
               <li><a href="https://karma-runner.github.io/1.0/index.html">Karma</a></li>
-              <li><a href="http://sinonjs.org/">Sinon</a></li>
-              <li><a href="http://chaijs.com/">Chai</a></li>
-              <li><a href="http://gotwarlost.github.io/istanbul/">Istanbul</a></li>
-              <li><a href="http://nightwatchjs.org/">Nightwatch</a></li>
+              <li><a href="https://sinonjs.org/">Sinon</a></li>
+              <li><a href="https://chaijs.com/">Chai</a></li>
+              <li><a href="https://gotwarlost.github.io/istanbul/">Istanbul</a></li>
+              <li><a href="https://nightwatchjs.org/">Nightwatch</a></li>
               <li><a href="https://github.com/airbnb/javascript">AirbnbJS</a></li>
               <li><a href="https://carlosazaustre.es/blog/frameworks-de-javascript/">Frameworks de JavaScript</a></li>
             </ul>
@@ -3159,8 +3159,8 @@
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
-              <li><a href="http://stateofjs.com/">State of JavaScript</a></li>
-              <li><a href="http://alistapart.com/event/front-end-dev">Front-end Event Alistapart</a></li>
+              <li><a href="https://stateofjs.com/">State of JavaScript</a></li>
+              <li><a href="https://alistapart.com/event/front-end-dev">Front-end Event Alistapart</a></li>
               <li><a href="https://css-tricks.com/recent-conference-talks-worth-watching/">Recent Conference Talks Worth Watching</a></li>
               <li><a href="https://github.com/AllThingsSmitty/must-watch-css">Must-Watch CSS</a></li>
               <li><a href="https://github.com/AllThingsSmitty/must-watch-javascript">Must-Watch JavaScript</a></li>
@@ -3172,7 +3172,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3180,7 +3180,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/10/25/el-ecosistema-frontend/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/10/25/el-ecosistema-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x13ElEcosistemaFrontend/WeCodeSign%201x13%20-%20El%20ecosistema%20Frontend.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x13ElEcosistemaFrontend/WeCodeSign%201x13%20-%20El%20ecosistema%20Frontend.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:23</itunes:duration>
         <itunes:keywords>Ecosistema, Frontend</itunes:keywords>
@@ -3213,7 +3213,7 @@
 
             <ul>
               <li><span>Quién me ha inspirado: </span>¡Su adorada mujer!</li>
-              <li><span>Recomiéndanos un recurso: </span><a href="http://www.modularscale.com/">Modular Scale</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://www.modularscale.com/">Modular Scale</a></li>
               <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/heterotype?lang=es">Manuel Sesma</a></li>
               <li><span>¿Qué tema te gustaría que tratásemos?: Diseño Editorial</span></li>
             </ul>
@@ -3222,7 +3222,7 @@
 
             <ul>
               <li><a href="https://www.fontown.com/">FonTown</a></li>
-              <li><a href="http://www.bynewroman.com/#home">Web de Lole</a></li>
+              <li><a href="https://www.bynewroman.com/#home">Web de Lole</a></li>
               <li><a href="https://www.linkedin.com/in/loleroman/en">LinkedIn de Lole</a></li>
               <li><a href="https://twitter.com/lolergb">Twitter de Lole</a></li>
             </ul>
@@ -3231,9 +3231,9 @@
 
             <ul>
               <li><a href="https://www.typotheque.com/articles/acerca_de_fedra">Fedra tipografía</a></li>
-              <li><a href="http://eduardomanso.com/#twitter">Eduardo Manso</a></li>
-              <li><a href="http://www.tiposconcaracter.es/truetype-opentype/">TrueType vs OpenType</a></li>
-              <li><a href="http://spiekermann.com/en/sample-page/">Spiekermann</a></li>
+              <li><a href="https://eduardomanso.com/#twitter">Eduardo Manso</a></li>
+              <li><a href="https://www.tiposconcaracter.es/truetype-opentype/">TrueType vs OpenType</a></li>
+              <li><a href="https://spiekermann.com/en/sample-page/">Spiekermann</a></li>
               <li><a href="https://typekit.com/">Typekit</a></li>
               <li><a href="https://fonts.google.com/">Google Fonts</a></li>
               <li><a href="https://www.keycdn.com/blog/web-font-performance/">Analyzing Web Font Performance</a></li>
@@ -3241,18 +3241,18 @@
               <li><a href="https://www.filamentgroup.com/lab/font-events.html">Font Loading Revisited with Font Events</a></li>
               <li><a href="https://www.zachleat.com/web/comprehensive-webfonts/">A comprehensive guide to font loading</a></li>
               <li><a href="https://www.filamentgroup.com/lab/font-loading.html">Using Web Fonts avoiding a @font-face-palm</a></li>
-              <li><a href="http://stateofwebtype.com/">State of Web Type</a></li>
+              <li><a href="https://stateofwebtype.com/">State of Web Type</a></li>
               <li><a href="https://www.smashingmagazine.com/2012/04/a-closer-look-at-font-rendering/">A Closer Look At Font Rendering</a></li>
               <li><a href="https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369#.dscil6nks">OpenType variable fonts</a></li>
               <li><a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization">Optimizando Web Fonts</a></li>
-              <li><a href="http://www.joanquiros.com/">Joan Quirós</a></li>
+              <li><a href="https://www.joanquiros.com/">Joan Quirós</a></li>
             </ul>
 
             <h3>Recomendaciones de Ignacio y Gabi</h3>
 
             <ul>
-              <li><a href="http://typographyhandbook.com/">Typographyhandbook</a></li>
-              <li><a href="http://practicaltypography.com/">Practical Typography</a></li>
+              <li><a href="https://typographyhandbook.com/">Typographyhandbook</a></li>
+              <li><a href="https://practicaltypography.com/">Practical Typography</a></li>
               <li><a href="https://prowebtype.com/">Professional Web Typography</a></li>
               <li><a href="https://www.typewolf.com/">Typewolf</a></li>
             </ul>
@@ -3263,7 +3263,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3271,7 +3271,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/10/11/tipografia-web/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/10/11/tipografia-web/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:20:22</itunes:duration>
         <itunes:keywords>Tipografía, Frontend</itunes:keywords>
@@ -3303,9 +3303,9 @@
             <h3>Preguntas rápidas: Soledad Penadés</h3>
 
             <ul>
-              <li><span>Quién me ha inspirado: </span><a href="http://whichlight.com">Kawandeep Virdee</a></li>
+              <li><span>Quién me ha inspirado: </span><a href="https://whichlight.com">Kawandeep Virdee</a></li>
               <li><span>Recomiéndanos un recurso: </span><a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a></li>
-              <li><span>Recomiéndanos a un invitado: </span><a href="http://belenalbeza.com">Belen Albeza</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://belenalbeza.com">Belen Albeza</a></li>
               <li><span>Recomiéndanos a un invitado: </span><a href="https://buriti.ca">Juan Pablo Buritica</a></li>
             </ul>
 
@@ -3337,7 +3337,7 @@
               <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
               <li><a href="https://arewedubstepyet.com">Bugs en Web Audio</a></li>
               <li><a href="https://soledadpenades.com/2016/09/15/progressive-enhancement-does-not-mean-works-when-javascript-is-disabled">Progressive enhancement</a></li>
-              <li><a href="http://www.brucelawson.co.uk">Bruce Lawson</a></li>
+              <li><a href="https://www.brucelawson.co.uk">Bruce Lawson</a></li>
               <li><a href="https://www.youtube.com/watch?v=QVuRba0NGKg">World Wide Web, not Healthy Westerners' Web</a></li>
               <li><a href="https://hacks.mozilla.org/2016/08/whats-new-in-web-audio-2">Lo nuevo en Web Audio</a></li>
               <li><a href="https://5013.es/toys/sorollet/examples/02_drum_machine/#eyJicG0iOjEwMCwidm9pY2VQYXJhbXMiOlt7IndhdmUxRnVuY3Rpb24iOjIsIndhdmUxT2N0YXZlIjozLCJ3YXZlMVZvbHVtZSI6MC40OCwid2F2ZTFQaGFzZSI6MCwid2F2ZTJGdW5jdGlvbiI6Mywid2F2ZTJPY3RhdmUiOjQsIndhdmUyVm9sdW1lIjowLCJ3YXZlMlBoYXNlIjowLCJ3YXZlTWl4RnVuY3Rpb24iOjAsIm5vaXNlQW1vdW50IjowLCJub2lzZU1peEZ1bmN0aW9uIjowLCJ2b2x1bWVFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjI3LCJzdXN0YWluIjowLCJyZWxlYXNlIjowLCJvdXRwdXRNaW4iOjAsIm91dHB1dE1heCI6MSwidGltZVNjYWxlIjoxfSwicGl0Y2hFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjY0LCJzdXN0YWluIjowLCJyZWxlYXNlIjowLCJvdXRwdXRNaW4iOi00OCwib3V0cHV0TWF4IjoxMiwidGltZVNjYWxlIjoxfX0seyJ3YXZlMUZ1bmN0aW9uIjowLCJ3YXZlMU9jdGF2ZSI6NSwid2F2ZTFWb2x1bWUiOjAuNSwid2F2ZTFQaGFzZSI6MCwid2F2ZTJGdW5jdGlvbiI6Miwid2F2ZTJPY3RhdmUiOjQsIndhdmUyVm9sdW1lIjowLCJ3YXZlMlBoYXNlIjowLCJ3YXZlTWl4RnVuY3Rpb24iOjAsIm5vaXNlQW1vdW50IjoxLCJub2lzZU1peEZ1bmN0aW9uIjoyLCJ2b2x1bWVFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjQ1LCJzdXN0YWluIjowLCJyZWxlYXNlIjoxLCJvdXRwdXRNaW4iOjAsIm91dHB1dE1heCI6MC45NSwidGltZVNjYWxlIjoxfSwicGl0Y2hFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjIxLCJzdXN0YWluIjowLCJyZWxlYXNlIjowLCJvdXRwdXRNaW4iOjAsIm91dHB1dE1heCI6LTQ4LCJ0aW1lU2NhbGUiOjF9fSx7IndhdmUxRnVuY3Rpb24iOjAsIndhdmUxT2N0YXZlIjo1LCJ3YXZlMVZvbHVtZSI6MC41LCJ3YXZlMVBoYXNlIjowLCJ3YXZlMkZ1bmN0aW9uIjoyLCJ3YXZlMk9jdGF2ZSI6NCwid2F2ZTJWb2x1bWUiOjAuNSwid2F2ZTJQaGFzZSI6MCwid2F2ZU1peEZ1bmN0aW9uIjowLCJub2lzZUFtb3VudCI6MSwibm9pc2VNaXhGdW5jdGlvbiI6MSwidm9sdW1lRW52ZWxvcGUiOnsiYXR0YWNrIjowLCJkZWNheSI6MC4wNiwic3VzdGFpbiI6MCwicmVsZWFzZSI6MSwib3V0cHV0TWluIjowLCJvdXRwdXRNYXgiOjEsInRpbWVTY2FsZSI6MX0sInBpdGNoRW52ZWxvcGUiOnsiYXR0YWNrIjowLCJkZWNheSI6MCwic3VzdGFpbiI6MSwicmVsZWFzZSI6MCwib3V0cHV0TWluIjowLCJvdXRwdXRNYXgiOjAsInRpbWVTY2FsZSI6MX19LHsid2F2ZTFGdW5jdGlvbiI6Mywid2F2ZTFPY3RhdmUiOjYsIndhdmUxVm9sdW1lIjowLjU1LCJ3YXZlMVBoYXNlIjowLCJ3YXZlMkZ1bmN0aW9uIjoyLCJ3YXZlMk9jdGF2ZSI6NCwid2F2ZTJWb2x1bWUiOjAsIndhdmUyUGhhc2UiOjAsIndhdmVNaXhGdW5jdGlvbiI6MCwibm9pc2VBbW91bnQiOjAsIm5vaXNlTWl4RnVuY3Rpb24iOjAsInZvbHVtZUVudmVsb3BlIjp7ImF0dGFjayI6MCwiZGVjYXkiOjAuNDQsInN1c3RhaW4iOjAsInJlbGVhc2UiOjEsIm91dHB1dE1pbiI6MCwib3V0cHV0TWF4IjoxLCJ0aW1lU2NhbGUiOjF9LCJwaXRjaEVudmVsb3BlIjp7ImF0dGFjayI6MC4xNiwiZGVjYXkiOjAuNDEsInN1c3RhaW4iOjAsInJlbGVhc2UiOjAsIm91dHB1dE1pbiI6Niwib3V0cHV0TWF4IjowLjI0LCJ0aW1lU2NhbGUiOjF9fV0sInBhdHRlcm5zIjpbW1swLDAsMV0sWzAsMiwxXSxbMiwyLDFdLFs0LDAsMV0sWzQsMSwxXSxbNCwyLDFdLFs2LDIsMV0sWzgsMCwxXSxbOCwyLDFdLFs5LDMsMV0sWzEwLDIsMV0sWzExLDMsMV0sWzEyLDAsMV0sWzEyLDEsMV0sWzEyLDIsMV0sWzE0LDIsMV0sWzE1LDIsMV0sWzE2LDAsMV0sWzE2LDIsMV0sWzE4LDIsMV0sWzIwLDAsMV0sWzIwLDEsMV0sWzIwLDIsMV0sWzIyLDIsMV0sWzI0LDAsMV0sWzI0LDIsMV0sWzI2LDIsMV0sWzI3LDEsMV0sWzI4LDAsMV0sWzI4LDEsMV0sWzI4LDIsMV0sWzI5LDMsMV0sWzMwLDIsMV0sWzMwLDMsMV0sWzMxLDIsMV0sWzMxLDMsMV1dXSwib3JkZXJMaXN0IjpbMF19">Caja de ritmos online</a></li>
@@ -3345,16 +3345,16 @@
               <li><a href="https://www.mozilla.org/en-US/firefox/ios">Firefox para iOS</a></li>
               <li><a href="https://www.mozilla.org/en-US/firefox/sync">Firefox Sync</a></li>
               <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers">Service Worker</a></li>
-              <li><a href="http://puredata.info">Pure Data</a></li>
+              <li><a href="https://puredata.info">Pure Data</a></li>
               <li><a href="https://emiliagomez.com">Emilia Gomez (investigadora de flamenco)</a></li>
-              <li><a href="http://www.meetup.com/Web-Audio-London">Web Audio meetup Londres</a></li>
+              <li><a href="https://www.meetup.com/Web-Audio-London">Web Audio meetup Londres</a></li>
             </ul>
 
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
               <li><a href="https://hacks.mozilla.org/">Hacks Mozilla</a></li>
-              <li><a href="http://freesound.org/">Freesound</a></li>
+              <li><a href="https://freesound.org/">Freesound</a></li>
             </ul>
 
             <h3>Contacta con nosotros</h3>
@@ -3363,7 +3363,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3371,7 +3371,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/09/24/web-audio/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/09/24/web-audio/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11WebAudio/WeCodeSign%201x11%20-%20Web%20Audio.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11WebAudio/WeCodeSign%201x11%20-%20Web%20Audio.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:23:40</itunes:duration>
         <itunes:keywords>Web, Audio, ProgressiveEnhancement, WebAudioAPI</itunes:keywords>
@@ -3416,7 +3416,7 @@
 
             <ul>
               <li><a href="https://twitter.com/isaezdesign">Twitter</a></li>
-              <li><a href="http://izaskunsaez.com/">Web</a></li>
+              <li><a href="https://izaskunsaez.com/">Web</a></li>
               <li><a href="https://www.linkedin.com/in/izaskunsaez/en">Linkedin</a></li>
             </ul>
 
@@ -3426,18 +3426,18 @@
               <li><a href="https://www.sketchapp.com">Sketch</a></li>
               <li><a href="https://marvelapp.com">Marvel</a></li>
               <li><a href="https://www.invisionapp.com">Invision</a></li>
-              <li><a href="http://www.axure.com">Axure</a></li>
-              <li><a href="http://www.html5rocks.com/en/tutorials/speed/high-performance-animations">High Performance Animations</a></li>
+              <li><a href="https://www.axure.com">Axure</a></li>
+              <li><a href="https://www.html5rocks.com/en/tutorials/speed/high-performance-animations">High Performance Animations</a></li>
             </ul>
 
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
-              <li><a href="http://valhead.com">Val Head</a></li>
-              <li><a href="http://rosenfeldmedia.com/designing-interface-animation/designing-interface-animation">Designing Interface Animation (book)</a></li>
-              <li><a href="http://motionandmeaning.io">Motion and Meaning (podcast)</a></li>
+              <li><a href="https://valhead.com">Val Head</a></li>
+              <li><a href="https://rosenfeldmedia.com/designing-interface-animation/designing-interface-animation">Designing Interface Animation (book)</a></li>
+              <li><a href="https://motionandmeaning.io">Motion and Meaning (podcast)</a></li>
               <li><a href="https://vimeo.com/channels/alltherightmoves">Vimeo animation series</a></li>
-              <li><a href="http://cssanimationspocketguide.com">CSS Animations Pocket Guide (book)</a></li>
+              <li><a href="https://cssanimationspocketguide.com">CSS Animations Pocket Guide (book)</a></li>
               <li><a href="https://www.instagram.com/uxigers">UXigers</a></li>
               <li><a href="https://www.instagram.com/uiuxgifs">UiUxGifs</a></li>
             </ul>
@@ -3448,7 +3448,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3456,7 +3456,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/09/13/diseno-de-interaccion/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/09/13/diseno-de-interaccion/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x10DisenoDeInteraccion/WeCodeSign%201x10%20-%20Disen%CC%83o%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x10DisenoDeInteraccion/WeCodeSign%201x10%20-%20Disen%CC%83o%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:12</itunes:duration>
         <itunes:keywords>Diseño, Interacción, UX, UI, Accesibilidad</itunes:keywords>
@@ -3490,7 +3490,7 @@
             <ul>
               <li><span>Quién me ha inspirado: </span><a href="https://es.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a></li>
               <li><span>Recomiéndanos un recurso: </span><a href="https://addyosmani.com/">Addy Osmani</a></li>
-              <li><span>Recomiéndanos un recurso: </span><a href="http://www.paulirish.com/">Paul Irish</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://www.paulirish.com/">Paul Irish</a></li>
               <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/angel_gfuente">Ángel González de la Fuente</a></li>
               <li><span>¿Qué tema te gustaría que tratásemos?: </span>Gamificación</a></li>
             </ul>
@@ -3498,7 +3498,7 @@
             <h3>Contacta con: Alejandro Arroyo Duque</h3>
 
             <ul>
-              <li><a href="http://alexarroyoduque.github.io/#/home">Web</a></li>
+              <li><a href="https://alexarroyoduque.github.io/#/home">Web</a></li>
               <li><a href="https://twitter.com/AlexArroyoDuque">Twitter</a></li>
               <li><a href="https://github.com/alexarroyoduque">Github</a></li>
               <li><a href="https://www.linkedin.com/in/alexarroyoduque">LinkedIn</a></li>
@@ -3507,27 +3507,27 @@
             <h3>Links del programa</h3>
 
             <ul>
-              <li><a href="http://www.meetup.com/videogamearmy/">Vide Game Army (Meetup)</a></li>
+              <li><a href="https://www.meetup.com/videogamearmy/">Vide Game Army (Meetup)</a></li>
               <li><a href="https://www.youtube.com/channel/UCWy51q5EHi2JGjUVAwVyRMQ">ide Game Army (YouTube)</a></li>
               <li><a href="https://www.youtube.com/watch?v=Xt5qpbiqw2g">The myth of the “Real JavaScript Developer”</a></li>
               <li><a href="https://twitter.com/IgnaciodeNuevo/status/760877780523515904">CSS is easy via @cristinafsanz</a></li>
               <li><a href="https://angular.io/">Angular 2</a></li>
-              <li><a href="http://ionicframework.com/">Ionic</a></li>
+              <li><a href="https://ionicframework.com/">Ionic</a></li>
               <li><a href="https://facebook.github.io/react/">React</a></li>
               <li><a href="https://jsx.github.io/">JSX</a></li>
               <li><a href="https://developers.google.com/web/progressive-web-apps/">Progressive Web Apps</a></li>
-              <li><a href="http://www.infoworld.com/article/3073170/mobile-development/google-opens-polymer-toolbox-for-progressive-web-apps.html">Google opens Polymer for PWA</a></li>
+              <li><a href="https://www.infoworld.com/article/3073170/mobile-development/google-opens-polymer-toolbox-for-progressive-web-apps.html">Google opens Polymer for PWA</a></li>
               <li><a href="https://developer.android.com/topic/instant-apps/index.html">Instant Apps</a></li>
               <li><a href="https://instantarticles.fb.com/">Instant Articles</a></li>
               <li><a href="https://www.ampproject.org/">AMP</a></li>
-              <li><a href="http://webcomponents.org/">Web Components</a></li>
+              <li><a href="https://webcomponents.org/">Web Components</a></li>
             </ul>
 
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
               <li><a href="https://github.com/Granze/awesome-polymer">Awesome Polymer</a></li>
-              <li><a href="http://violaineetjeremy.fr/">VIOLAINE & JÉRÉMY</a></li>
+              <li><a href="https://violaineetjeremy.fr/">VIOLAINE & JÉRÉMY</a></li>
             </ul>
 
             <h3>Contacta con nosotros</h3>
@@ -3536,7 +3536,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3544,7 +3544,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/08/30/estado-actual-de-angular-y-polymer/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/08/30/estado-actual-de-angular-y-polymer/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:57</itunes:duration>
         <itunes:keywords>Angular, Angular2, Polymer, WebComponents, React</itunes:keywords>
@@ -3603,13 +3603,13 @@
               <li><a href="https://www.facebook.com/business/products/ads">Facebook Ads</a></li>
               <li><a href="https://www.google.es/adwords/">Google Adwords</a></li>
               <li><a href="https://woocommerce.com/">Woocommerce</a></li>
-              <li><a href="http://extensions.joomla.org/extension/joomshopping">Joomshopping</a></li>
+              <li><a href="https://extensions.joomla.org/extension/joomshopping">Joomshopping</a></li>
             </ul>
 
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
-                <li><a href="http://market.envato.com/">Envato</a></li>
+                <li><a href="https://market.envato.com/">Envato</a></li>
                 <li><a href="https://fabrik.io/">Fabrik.io</a></li>
             </ul>
 
@@ -3619,7 +3619,7 @@
                 <li><a href="https://carmenansio.github.io/wecodesign/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
-                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
             </ul>
 
@@ -3627,7 +3627,7 @@
         </description>
         <link>https://carmenansio.github.io/wecodesign/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:57:59</itunes:duration>
         <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
@@ -3654,7 +3654,7 @@
             <ul>
                 <li><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a></li>
                 <li><span>Quién me ha inspirado: </span><a href="https://es.wikipedia.org/wiki/Salman_Khan_(profesor)">Salman Khan</a></li>
-                <li><span>Recomiéndanos un recurso: </span><a href="http://waitbutwhy.com/">Why But Why</a></li>
+                <li><span>Recomiéndanos un recurso: </span><a href="https://waitbutwhy.com/">Why But Why</a></li>
                 <li><span>Recomiéndanos a un invitado: </span><a href="https://viviralmaximo.net/">Ángel Alegre</a></li>
                 <li><span>Recomiéndanos a un invitado: </span><a href="https://www.lifestylealcuadrado.com/acerca-de-franck-scipion/">Franck Scipion</a></li>
                 <li><span>Recomiéndanos a un invitado: </span><a href="https://www.youtube.com/user/davidcantone">David Cantone</a></li>
@@ -3665,8 +3665,8 @@
             <h4>Contacta con: Miguel Hernandez</h4>
 
             <ul>
-                <li><a href="http://grumomedia.com">Grumo Media</a></li>
-                <li><a href="http://grumoschool.com/">Grumo School</a></li>
+                <li><a href="https://grumomedia.com">Grumo Media</a></li>
+                <li><a href="https://grumoschool.com/">Grumo School</a></li>
             </ul>
 
             <h4>Links del programa</h4>
@@ -3674,11 +3674,11 @@
             <ul>
                <li><a href="https://itunes.apple.com/es/app/books-films-bands/id520395424">Books Films Bands</a></li>
                <li><a href="https://mixergy.com/welcome">Mixergy.com</a></li>
-               <li><a href="http://lkrsocialmedia.com">Laura Roeder</a></li>
+               <li><a href="https://lkrsocialmedia.com">Laura Roeder</a></li>
                <li><a href="https://www.udemy.com">Udemy</a></li>
                <li><a href="https://teamtreehouse.com">Treehouse</a></li>
                <li><a href="https://es.wikipedia.org/wiki/Richard_Branson">Richard Branson</a></li>
-               <li><a href="http://www.danmartell.com">Dan Martell</a></li>
+               <li><a href="https://www.danmartell.com">Dan Martell</a></li>
                <li><a href="https://en.wikipedia.org/wiki/Alexis_Ohanian">Alexis Ohanian</a></li>
                <li><a href="https://www.ycombinator.com/">Ycombinator</a></li>
                <li><a href="https://es.wikipedia.org/wiki/Ashton_Kutcher">Ashton Kutcher</a></li>
@@ -3689,7 +3689,7 @@
             <ul>
                 <li><a href="https://stuffandnonsense.co.uk">Stuff & Nonsense</a></li>
                 <li><a href="https://gist.github.com/malarkey/4031110">Contract Killer</a></li>
-                <li><a href="http://www.ilovedust.com">Ilovedust</a></li>
+                <li><a href="https://www.ilovedust.com">Ilovedust</a></li>
             </ul>
 
 
@@ -3698,7 +3698,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/08/02/episodio-7/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/08/02/episodio-7/</guid>
         <pubDate>Tue, 02 Aug 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:12:39</itunes:duration>
@@ -3725,7 +3725,7 @@
             <ul>
                 <li><span>Quién me ha inspirado: </span>Armando Montesinos, Dr. en Bellas Artes</li>
                 <li><span>Recomiéndanos un recurso: </span><a href="https://css-tricks.com/">CSS-Tricks</a></li>
-                <li><span>Recomiéndanos a un invitado: </span><a href="http://www.mcmarcos.com">Mari-Carmen Marcos</a></li>
+                <li><span>Recomiéndanos a un invitado: </span><a href="https://www.mcmarcos.com">Mari-Carmen Marcos</a></li>
                 <li><span>¿Qué tema te gustaría que tratásemos?: </span>En impacto de las RRSS en la web</li>
             </ul>
 
@@ -3738,21 +3738,21 @@
             <h3>Links del programa</h3>
 
             <ul>
-                <li><a href="http://www.axure.com">Axure</a></li>
+                <li><a href="https://www.axure.com">Axure</a></li>
                 <li><a href="https://balsamiq.com">Balsamiq</a></li>
-                <li><a href="http://www.justinmind.com">Just in Mind</a></li>
-                <li><a href="http://www.adobe.com/es/products/illustrator.html">Illustrator</a></li>
-                <li><a href="http://www.adobe.com/es/products/photoshop.html">Photoshop</a></li>
-                <li><a href="http://feedly.com">Feedly</a></li>
-                <li><a href="http://csswizardry.com/">Harry Roberts</a></li>
-                <li><a href="http://librosweb.es">Libros Web</a></li>
+                <li><a href="https://www.justinmind.com">Just in Mind</a></li>
+                <li><a href="https://www.adobe.com/es/products/illustrator.html">Illustrator</a></li>
+                <li><a href="https://www.adobe.com/es/products/photoshop.html">Photoshop</a></li>
+                <li><a href="https://feedly.com">Feedly</a></li>
+                <li><a href="https://csswizardry.com/">Harry Roberts</a></li>
+                <li><a href="https://librosweb.es">Libros Web</a></li>
             </ul>
 
             <h3>Recomendaciones de Nacho</h3>
 
             <ul>
                 <li><a href="https://nomadlist.com">Nomadlist</a></li>
-                <li><a href="http://www.aiga.org">Aiga</a></li>
+                <li><a href="https://www.aiga.org">Aiga</a></li>
             </ul>
 
         ]]>
@@ -3760,7 +3760,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/07/19/episodio-6/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/07/19/episodio-6/</guid>
         <pubDate>Tue, 19 Jul 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Front-end, Design</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:04:51</itunes:duration>
@@ -3783,9 +3783,9 @@
         <h3>Preguntas rápidas: Javier Larrea García</h3>
 
         <ul>
-            <li><span>Quién me ha inspirado: </span><a href="http://nestorguerra.com/">Nestor Guerra</a></li>
+            <li><span>Quién me ha inspirado: </span><a href="https://nestorguerra.com/">Nestor Guerra</a></li>
             <li><span>Recomiéndanos un recurso: </span><a href="https://www.smashingmagazine.com">Smashing Magazine</a></li>
-            <li><span>Recomiéndanos a un invitado: </span><a href="http://h2iinstitute.com/equipo/alicia-chavero/">Alicia Chavero</a></li>
+            <li><span>Recomiéndanos a un invitado: </span><a href="https://h2iinstitute.com/equipo/alicia-chavero/">Alicia Chavero</a></li>
             <li><span>¿Qué tema te gustaría que tratásemos?: </span>Lean Startup</li>
         </ul>
 
@@ -3794,15 +3794,15 @@
         <ul>
             <li><a href="https://twitter.com/jlarreagarcia">Twitter</a></li>
             <li><a href="https://twitter.com/UXacademy_es">Twitter de UX Academy</a></li>
-            <li><a href="http://www.uxacademy.es">UX Academy</a></li>
+            <li><a href="https://www.uxacademy.es">UX Academy</a></li>
         </ul>
 
         <h3>Links del programa</h3>
 
         <ul>
             <li><a href="https://popapp.in/">Pop</a></li>
-            <li><a href="http://www.axure.com">Axure</a></li>
-            <li><a href="http://www.adobe.com/es/products/experience-design.html">Adobe Experience Design</a></li>
+            <li><a href="https://www.axure.com">Axure</a></li>
+            <li><a href="https://www.adobe.com/es/products/experience-design.html">Adobe Experience Design</a></li>
             <li><a href="https://www.sketchapp.com">Sketch</a></li>
             <li><a href="https://www.invisionapp.com/">Invision</a></li>
             <li><a href="https://uxpin.com">UXPin</a></li>
@@ -3819,7 +3819,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/07/05/episodio-5/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/07/05/episodio-5/</guid>
         <pubDate>Tue, 05 Jul 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x05UXYUI/WeCodeSign%20Podcast.%20Episodio%201x05%20-%20UX%20y%20UI.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x05UXYUI/WeCodeSign%20Podcast.%20Episodio%201x05%20-%20UX%20y%20UI.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>UX, UI</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:01:23</itunes:duration>
@@ -3846,7 +3846,7 @@
             <li><span>Quién me ha inspirado: </span><a href="https://www.linkedin.com/in/akaushik">Avinash Kaushik</a></li>
             <li><span>Quién me ha inspirado: </span><a href="https://www.mattcutts.com/blog/">Matt Cutts</a></li>
             <li><span>Quién me ha inspirado: </span><a href="https://analytics.googleblog.com">Google Analytics</a></li>
-            <li><span>Recomiéndanos un recurso: </span><a href="http://googlewebmaster-es.blogspot.com.es/">El Blog para Webmasters</a></li>
+            <li><span>Recomiéndanos un recurso: </span><a href="https://googlewebmaster-es.blogspot.com.es/">El Blog para Webmasters</a></li>
             <li><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/randfishkin/es">Rand Fishkin</a></li>
             <li><span>¿Qué tema te gustaría que tratásemos?: </span>Recogida y análisis de KPI’s a nivel analítica web.</li>
         </ul>
@@ -3854,15 +3854,15 @@
         <h4>Contacta con: José Ramón Saura</h4>
 
         <ul>
-            <li><a href="http://joseramonsaura.com/">Web</a></li>
+            <li><a href="https://joseramonsaura.com/">Web</a></li>
             <li><a href="https://twitter.com/joseramonsaura">Twitter</a></li>
         </ul>
 
         <h4>Links del programa</h4>
 
         <ul>
-            <li><a href="http://schema.org/">Schema.org</a></li>
-            <li><a href="http://www.aendi.es/">Asociación Nativos Digitales</a></li>
+            <li><a href="https://schema.org/">Schema.org</a></li>
+            <li><a href="https://www.aendi.es/">Asociación Nativos Digitales</a></li>
         </ul>
 
         <h4>Recomendaciones de Nacho</h4>
@@ -3870,7 +3870,7 @@
         <ul>
             <li><a href="https://moz.com/blog">Moz Blog</a></li>
             <li><a href="https://moz.com/tools/seo-toolbar">Moz Bar</a></li>
-            <li><a href="http://forefathersgroup.com/">FOREFATHERS</a></li>
+            <li><a href="https://forefathersgroup.com/">FOREFATHERS</a></li>
         </ul>
 
         ]]>
@@ -3878,7 +3878,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/06/21/episodio-4/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/06/21/episodio-4/</guid>
         <pubDate>Tue, 21 Jun 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>SEO, SEM</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:22:29</itunes:duration>
@@ -3913,7 +3913,7 @@
             <h3>Contacta con Álvaro Sanmartín</h3>
 
             <ul>
-                <li><a href="http://alvarosanmartin.com">Web</a></li>
+                <li><a href="https://alvarosanmartin.com">Web</a></li>
                 <li><a href="https://twitter.com/AlvaroSanmartin">Twitter</a></li>
             </ul>
 
@@ -3941,7 +3941,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/06/07/episodio-3/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/06/07/episodio-3/</guid>
         <pubDate>Tue, 07 Jun 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Educación, Online</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:54:26</itunes:duration>
@@ -3991,7 +3991,7 @@
             <h4>Contacta con WeCodeSign Podcast</h4>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com">Web</a></li>
+                <li><a href="https://wecodesignpodcast.com">Web</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter</a></li>
                 <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
             </ul>
@@ -4001,7 +4001,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/05/24/episodio-2/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/05/24/episodio-2/</guid>
         <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>01:12:51</itunes:duration>
@@ -4035,7 +4035,7 @@
             <h4>Contacta con Edu Fierro</h4>
 
             <ul>
-                <li><a href="http://eduardofierro.pro/index.php">EduardoFierro.pro</a></li>
+                <li><a href="https://eduardofierro.pro/index.php">EduardoFierro.pro</a></li>
                 <li><a href="https://www.linkedin.com/in/eduardofierrog">LinkedIn</a></li>
                 <li><a href="https://twitter.com/eduardofierrogo">Twitter</a></li>
             </ul>
@@ -4043,14 +4043,14 @@
             <h4>Recomendaciones de Nacho</h4>
 
             <ul>
-                <li><a href="http://csswizardry.com">Harry Roberts</a></li>
-                <li><a href="http://blog.spoongraphics.co.uk/">Spoon Graphics</a></li>
+                <li><a href="https://csswizardry.com">Harry Roberts</a></li>
+                <li><a href="https://blog.spoongraphics.co.uk/">Spoon Graphics</a></li>
             </ul>
 
             <h4>Contacta con WeCodeSign Podcast</h4>
 
             <ul>
-                <li><a href="http://wecodesignpodcast.com">Web</a></li>
+                <li><a href="https://wecodesignpodcast.com">Web</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter</a></li>
                 <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
             </ul>
@@ -4061,7 +4061,7 @@
         <link>https://carmenansio.github.io/wecodesign/2016/05/10/episodio-1/</link>
         <guid>https://carmenansio.github.io/wecodesign/2016/05/10/episodio-1/</guid>
         <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"https://carmenansio.github.io/wecodesign/>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"https://carmenansio.github.io/wecodesign/>
         <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords>
         <itunes:image href="https://carmenansio.github.io/wecodesign/img/caratula.jpg"https://carmenansio.github.io/wecodesign/>
         <itunes:duration>00:53:24</itunes:duration>
